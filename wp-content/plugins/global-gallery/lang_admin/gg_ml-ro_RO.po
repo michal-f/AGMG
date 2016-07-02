@@ -1,0 +1,2897 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Global Gallery v3 - admin panel\n"
+"POT-Creation-Date: 2014-04-22 18:56+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: LCweb\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_menu.php:8 ../admin_menu.php:104 ../admin_menu.php:118
+#: ../tinymce_btn.php:51
+msgid "Collections"
+msgstr "Colectii"
+
+#: ../admin_menu.php:9
+msgid "Settings"
+msgstr "Setari"
+
+#: ../admin_menu.php:29 ../tinymce_btn.php:50
+msgid "Galleries"
+msgstr "Galerii"
+
+#: ../admin_menu.php:30
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../admin_menu.php:31 ../admin_menu.php:32
+msgid "Add New Gallery"
+msgstr "Adauga Galerie Noua"
+
+#: ../admin_menu.php:33
+msgid "Edit Gallery"
+msgstr "Editeaza Galerie"
+
+#: ../admin_menu.php:34
+msgid "New Gallery"
+msgstr "Galerie Noua"
+
+#: ../admin_menu.php:35
+msgid "View Gallery"
+msgstr "Vizualizeaza Galeria"
+
+#: ../admin_menu.php:36
+msgid "Search Galleries"
+msgstr "Cauta Galerii"
+
+#: ../admin_menu.php:37 ../ajax.php:579 ../collections_manager.php:97
+#: ../tinymce_btn.php:45
+msgid "No galleries found"
+msgstr "Nici o galerie gasita"
+
+#: ../admin_menu.php:38
+msgid "No galleries found in Trash"
+msgstr "Nici o galerie gasita in Gunoi"
+
+#: ../admin_menu.php:39
+msgid "Parent Gallery:"
+msgstr "Galerie Parinte:"
+
+#: ../admin_menu.php:40 ../wp_gallery_manag.php:15 ../wp_gallery_manag.php:16
+msgid "Global Gallery"
+msgstr "Galerie Globala"
+
+#: ../admin_menu.php:66 ../admin_menu.php:80 ../ajax.php:552
+msgid "Gallery Categories"
+msgstr "Categorii Galerie:"
+
+#: ../admin_menu.php:67
+msgid "Gallery Category"
+msgstr "Categorie Galerie"
+
+#: ../admin_menu.php:68
+msgid "Search Gallery Categories"
+msgstr "Cauta Categorii de Galerii"
+
+#: ../admin_menu.php:70
+msgid "All Gallery Categories"
+msgstr "Toate Categoriile Galeriilor"
+
+#: ../admin_menu.php:71
+msgid "Parent Gallery Category"
+msgstr "Categoria Galeriei Parinte"
+
+#: ../admin_menu.php:72
+msgid "Parent Gallery Category:"
+msgstr "Categoria Galeriei Parinte:"
+
+#: ../admin_menu.php:73
+msgid "Edit Gallery Category"
+msgstr "Editeaza Categoria Galeriei"
+
+#: ../admin_menu.php:74
+msgid "Update Gallery Category"
+msgstr "Actualizeaza Categoria Galeriei"
+
+#: ../admin_menu.php:75
+msgid "Add New Gallery Category"
+msgstr "Adauga Categorie Noua de Galerie"
+
+#: ../admin_menu.php:76
+msgid "New Gallery Category"
+msgstr "Categorie Noua de Galerie"
+
+#: ../admin_menu.php:77
+msgid "Separate item categories with commas"
+msgstr "Separa categoriile cu virgule"
+
+#: ../admin_menu.php:78
+msgid "Add or remove Gallery Categories"
+msgstr "Adauga sau sterge Categorii de Galerii"
+
+#: ../admin_menu.php:79
+msgid "Choose from most used Gallery Categories"
+msgstr "Alege din cele mai folosite Categorii de Galerii"
+
+#: ../admin_menu.php:105 ../tinymce_btn.php:94
+msgid "Collection"
+msgstr "Colectie"
+
+#: ../admin_menu.php:106
+msgid "Search Collections"
+msgstr "Cauta in Colectii"
+
+#: ../admin_menu.php:107
+msgid "Popular Collections"
+msgstr "Colectii populare"
+
+#: ../admin_menu.php:108
+msgid "All Collections"
+msgstr "Toate Colectiile"
+
+#: ../admin_menu.php:109
+msgid "Parent Collection"
+msgstr "Colectia Parinte"
+
+#: ../admin_menu.php:110
+msgid "Parent Collection:"
+msgstr "Colectia Parinte:"
+
+#: ../admin_menu.php:111
+msgid "Edit Collection"
+msgstr "Editeaza Colectia"
+
+#: ../admin_menu.php:112
+msgid "Update Collection"
+msgstr "Actualizeaza Colectia"
+
+#: ../admin_menu.php:113
+msgid "Add New Collection"
+msgstr "Adauga Colectie Noua"
+
+#: ../admin_menu.php:114
+msgid "New Collection"
+msgstr "Colectie Noua"
+
+#: ../admin_menu.php:115
+msgid "Separate grids with commas"
+msgstr "Separa grile cu virgule"
+
+#: ../admin_menu.php:116
+msgid "Add or remove Collections"
+msgstr "Adauga sau sterge Colectii"
+
+#: ../admin_menu.php:117
+msgid "Choose from most used Collections"
+msgstr "Alege din cele mai folosite Colectii"
+
+#: ../admin_menu.php:145 ../admin_menu.php:146 ../admin_menu.php:148
+msgid "Gallery updated"
+msgstr "Galerie actualizata"
+
+#: ../admin_menu.php:147
+msgid "Gallery deleted"
+msgstr "Galerie stearsa"
+
+#: ../admin_menu.php:150
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr "Galerie restaurata la revizia %s"
+
+#: ../admin_menu.php:151
+msgid "Gallery published"
+msgstr "Galerie publicata"
+
+#: ../admin_menu.php:152
+msgid "Gallery saved"
+msgstr "Galerie salvata"
+
+#: ../admin_menu.php:153
+msgid "Gallery submitted"
+msgstr "Galerie executata"
+
+#: ../admin_menu.php:154
+#, php-format
+msgid "Gallery scheduled for: <strong>%1$s</strong>"
+msgstr "Galerie programata pentru <strong>%1$s</strong>"
+
+#: ../admin_menu.php:154
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../admin_menu.php:155
+msgid "Gallery draft updated"
+msgstr "Schita Galerie actualizata"
+
+#: ../admin_menu.php:220
+msgid "Title"
+msgstr "Titlu"
+
+#: ../admin_menu.php:222
+msgid "Source"
+msgstr "Sursa"
+
+#: ../admin_menu.php:223
+msgid "Layout"
+msgstr "Amplasare"
+
+#: ../admin_menu.php:224
+msgid "Pagination"
+msgstr "Paginatie"
+
+#: ../admin_menu.php:225
+msgid "Auto Population"
+msgstr "Auto Populare"
+
+#: ../admin_menu.php:226
+msgid "Images"
+msgstr "Imagini"
+
+#: ../admin_menu.php:227
+msgid "Date"
+msgstr "Data"
+
+#: ../admin_menu.php:255 ../gallery_builder.php:151 ../wp_gallery_manag.php:62
+#: ../wp_gallery_manag.php:106
+msgid "Yes"
+msgstr "Da"
+
+#: ../admin_menu.php:256 ../gallery_builder.php:152 ../settings.php:1332
+#: ../wp_gallery_manag.php:63 ../wp_gallery_manag.php:107
+msgid "No"
+msgstr "Nu"
+
+#: ../ajax.php:24 ../gallery_builder.php:293 ../gallery_builder.php:616
+msgid "Select a gallery type and fill the data to get the images"
+msgstr ""
+"Selecteaza tipul galeriei si completeaza datele pentru a obtine imaginile"
+
+#: ../ajax.php:46
+msgid "Auto Gallery Population"
+msgstr "Auto Populare Galerie"
+
+#: ../ajax.php:49
+msgid "Auto Population?"
+msgstr "Auto Populare ?"
+
+#: ../ajax.php:51
+msgid "Check to enable the automatic gallery population"
+msgstr "Bifeaza pentru a activa popularea automata a galeriei"
+
+#: ../ajax.php:54
+msgid "Display Authors?"
+msgstr "Afiseaza Autori ?"
+
+#: ../ajax.php:56
+msgid "Check to display the fetched authors"
+msgstr "Bifeaza pentru a afisa autorii preluati"
+
+#: ../ajax.php:59
+msgid "Display Titles?"
+msgstr "Afiseasa Titluri ?"
+
+#: ../ajax.php:61
+msgid "Check to display the fetched titles"
+msgstr "Bifeaza pentru a afisa titlurile preluate"
+
+#: ../ajax.php:64
+msgid "Display Descriptions?"
+msgstr "Afiseaza Descrierile ?"
+
+#: ../ajax.php:66
+msgid "Check to display the fetched descriptions"
+msgstr "Bifeaza pentru a afisa descrierile preluate"
+
+#: ../ajax.php:69
+msgid "Cache Interval"
+msgstr "Interval depozitare"
+
+#: ../ajax.php:71 ../gallery_builder.php:128 ../gallery_builder.php:149
+#: ../gallery_builder.php:829 ../gallery_builder.php:840 ../settings.php:392
+#: ../settings.php:531 ../settings.php:562 ../settings.php:637
+#: ../settings.php:648 ../settings.php:845 ../settings.php:977
+#: ../settings.php:992 ../settings.php:1003 ../settings.php:1045
+#: ../settings.php:1172 ../settings.php:1331 ../wp_gallery_manag.php:60
+#: ../wp_gallery_manag.php:86 ../wp_gallery_manag.php:104
+msgid "Select an option"
+msgstr "Selecteaza o optiune"
+
+#: ../ajax.php:81
+msgid "Choose the gallery cache interval"
+msgstr "Alege intervalul de depozitare al galeriei"
+
+#: ../ajax.php:84
+msgid "Random Selection?"
+msgstr "Selectie aleatorie ?"
+
+#: ../ajax.php:87 ../ajax.php:95
+msgid "Rebuild Preview"
+msgstr "Reconstruieste previzualizare"
+
+#: ../ajax.php:89
+msgid "Check to select randomly the images between the availables"
+msgstr "Bifeaza pentru a alege aleatoriu imaginile dintre cele disponibile"
+
+#: ../ajax.php:92
+msgid "Max Images"
+msgstr "Maxim de imagini"
+
+#: ../ajax.php:97
+msgid "Maximum number of images for the gallery"
+msgstr "Numar maxim de imagini pentru galerie"
+
+#: ../ajax.php:176
+msgid "Previous images"
+msgstr "Imaginile precedente"
+
+#: ../ajax.php:182 ../ajax.php:184
+msgid "images per page"
+msgstr "imagini pe pagina"
+
+#: ../ajax.php:188
+msgid "Next images"
+msgstr "Urmatoarele imagini"
+
+#: ../ajax.php:253 ../gallery_builder.php:414
+msgid "No images found"
+msgstr "Nici o imagine gasita"
+
+#: ../ajax.php:317 ../ajax.php:655 ../collections_manager.php:166
+#: ../gallery_builder.php:394 ../gallery_builder.php:455
+#: ../gallery_builder.php:733
+msgid "No link"
+msgstr "Nici un link"
+
+#: ../ajax.php:546
+msgid "Add Collection Galleries"
+msgstr "Adauga Galerii Colectie"
+
+#: ../ajax.php:554
+msgid "Select gallery categories"
+msgstr "Selecteaza categoriile galeriei"
+
+#: ../ajax.php:574 ../ajax.php:707 ../functions.php:1589 ../tinymce_btn.php:60
+#: ../tinymce_btn.php:134
+msgid "Select a gallery"
+msgstr "Selecteaza o galerie"
+
+#: ../ajax.php:587 ../collections_manager.php:27
+msgid "Add"
+msgstr "Adauga"
+
+#: ../ajax.php:600
+msgid "Collection Builder"
+msgstr "Constructor colectii"
+
+#: ../ajax.php:639 ../collections_manager.php:150
+#, fuzzy
+msgid "edit gallery"
+msgstr "Editeaza Galerie"
+
+#: ../ajax.php:642 ../collections_manager.php:153
+msgid "Random display?"
+msgstr "Afisare aleatoare ?"
+
+#: ../ajax.php:646 ../collections_manager.php:157 ../wp_gallery_manag.php:118
+msgid "Use watermark?"
+msgstr "Foloseste filigrana ?"
+
+#: ../ajax.php:649 ../collections_manager.php:160
+msgid "Categories"
+msgstr "Categorii"
+
+#: ../ajax.php:653 ../collections_manager.php:164
+#, fuzzy
+msgid "Image link"
+msgstr "Coloane Imagini"
+
+#: ../ajax.php:656 ../collections_manager.php:167 ../gallery_builder.php:395
+#: ../gallery_builder.php:733
+msgid "To a page"
+msgstr "Pe o pagina"
+
+#: ../ajax.php:657 ../collections_manager.php:168 ../gallery_builder.php:396
+#: ../gallery_builder.php:733
+msgid "Custom link"
+msgstr "Link personalizat"
+
+#: ../ajax.php:662 ../collections_manager.php:173
+#, fuzzy
+msgid "Gallery description"
+msgstr "Afiseaza Descrierile ?"
+
+#: ../ajax.php:674
+msgid "No galleries selected"
+msgstr "Nici o galerie selectata"
+
+#: ../classes/easy_wp_thumbs.php:533
+msgid "File doesn&#8217;t exist?"
+msgstr "Fisier inexistent ?"
+
+#: ../classes/easy_wp_thumbs.php:571
+msgid "File is not an image."
+msgstr "Fisierul nu e imagine."
+
+#: ../classes/easy_wp_thumbs.php:577
+msgid "Could not read image size."
+msgstr "Nu pot citi marimea imaginii"
+
+#: ../classes/easy_wp_thumbs.php:906
+msgid ""
+"<strong>ERROR:</strong> There was an error connecting to the server, Please "
+"verify the settings are correct."
+msgstr ""
+"<strong>EROARE:</strong> S-a produs o eroare in timpul conectarii la server. "
+"Verifica daca setarile sunt corecte."
+
+#: ../classes/easy_wp_thumbs.php:931
+msgid "Confirm the cache file deletion?"
+msgstr "Confirma stergerea cache-ului"
+
+#: ../classes/easy_wp_thumbs.php:959
+msgid "Clean cache"
+msgstr "Curata cache"
+
+#: ../classes/easy_wp_thumbs.php:961
+msgid "Connection Information"
+msgstr "Informatii de conectare"
+
+#: ../classes/easy_wp_thumbs.php:962
+msgid "Your system is set up properly"
+msgstr "Sistemul e setat cum trebuie"
+
+#: ../classes/easy_wp_thumbs.php:1062
+msgid "Error creating the cache directory"
+msgstr "Eroare la crearea folderului cache-ului"
+
+#: ../classes/easy_wp_thumbs.php:1077
+msgid "Error creating the test file"
+msgstr "Eroare la crearea fisierului test"
+
+#: ../classes/easy_wp_thumbs.php:1198
+msgid "Cache folder doesn't exists"
+msgstr "Folderul cache-ului nu exista"
+
+#: ../classes/easy_wp_thumbs.php:1214
+msgid "01 - WP_filesystem - connection failed"
+msgstr "01 - WP_filesystem - conexiune esuata"
+
+#: ../classes/easy_wp_thumbs.php:1231
+msgid "Filename or contents are missing"
+msgstr "Nume fisier sau continut lipsa"
+
+#: ../classes/easy_wp_thumbs.php:1243 ../classes/easy_wp_thumbs.php:1248
+msgid "02 - WP_filesystem - connection failed"
+msgstr "02 - WP_filesystem - conexiune esuata"
+
+#: ../classes/easy_wp_thumbs.php:1257
+msgid "Error creating the file"
+msgstr "Eroare la crearea fisierului"
+
+#: ../classes/easy_wp_thumbs.php:1335
+msgid "WP image not found or invalid image path"
+msgstr "Imaginea WP negasita sau link invalid"
+
+#: ../classes/easy_wp_thumbs.php:1347
+msgid "File extension not supported"
+msgstr "Extensia nu e suportata"
+
+#: ../classes/easy_wp_thumbs.php:1707
+msgid "thumb creation failed"
+msgstr "crearea imaginii mici esuata"
+
+#: ../classes/simple_form_validator.php:327
+msgid "minimum value is"
+msgstr "valoarea minima este"
+
+#: ../classes/simple_form_validator.php:340
+msgid "maximum value is"
+msgstr "valoarea maxima este"
+
+#: ../classes/simple_form_validator.php:353
+msgid "minimum"
+msgstr "minim"
+
+#: ../classes/simple_form_validator.php:353
+#: ../classes/simple_form_validator.php:366
+msgid "characters allowed"
+msgstr "caractere permise"
+
+#: ../classes/simple_form_validator.php:366
+msgid "maximum"
+msgstr "maxim"
+
+#: ../classes/simple_form_validator.php:379
+msgid "has to be long"
+msgstr "trebuie sa fie lung"
+
+#: ../classes/simple_form_validator.php:379
+msgid "characters"
+msgstr "caractere"
+
+#: ../classes/simple_form_validator.php:423
+msgid "Select"
+msgstr "Selecteaza"
+
+#: ../classes/simple_form_validator.php:423
+msgid "options"
+msgstr "optiuni"
+
+#: ../classes/simple_form_validator.php:435
+msgid "Maximum"
+msgstr "Maximum"
+
+#: ../classes/simple_form_validator.php:435
+msgid "options allowed"
+msgstr "optiuni permise"
+
+#: ../classes/simple_form_validator.php:511
+msgid "are required"
+msgstr "sunt necesare"
+
+#: ../classes/simple_form_validator.php:511
+msgid "is required"
+msgstr "e necesar"
+
+#: ../classes/simple_form_validator.php:515
+msgid "are not valid integers"
+msgstr "nu sunt numere valide"
+
+#: ../classes/simple_form_validator.php:515
+msgid "is not a valid integer"
+msgstr "nu este numar valid"
+
+#: ../classes/simple_form_validator.php:519
+msgid "are not valid floating numbers"
+msgstr "nu sunt numere cu zecimale valide"
+
+#: ../classes/simple_form_validator.php:519
+msgid "is not a valid floating number"
+msgstr "nu este numar cu zecimale valid"
+
+#: ../classes/simple_form_validator.php:523
+msgid "are not valid e-mail addresses"
+msgstr "nu sunt adrese de email valide"
+
+#: ../classes/simple_form_validator.php:523
+msgid "is not a valid e-mail address"
+msgstr "nu este adresa de email valida"
+
+#: ../classes/simple_form_validator.php:527
+msgid "are not valid dates"
+msgstr "nu sunt date valide"
+
+#: ../classes/simple_form_validator.php:527
+msgid "is not a valid date"
+msgstr "nu este data valida"
+
+#: ../classes/simple_form_validator.php:531
+msgid "are not valid times"
+msgstr "nu sunt ore valide"
+
+#: ../classes/simple_form_validator.php:531
+msgid "is not a valid time"
+msgstr "nu este ora valida"
+
+#: ../classes/simple_form_validator.php:535
+msgid "are not valid urls"
+msgstr "nu sunt url-uri valide"
+
+#: ../classes/simple_form_validator.php:535
+msgid "is not a valid url"
+msgstr "nu este url valid"
+
+#: ../classes/simple_form_validator.php:539
+msgid "are not valid hexadecimal colors"
+msgstr "nu sunt culori hexadecimale valide"
+
+#: ../classes/simple_form_validator.php:539
+msgid "is not a valid hexadecimal color"
+msgstr "nu e culoare hexadecimala valida"
+
+#: ../classes/simple_form_validator.php:543
+msgid "are not valid IP addresses"
+msgstr "nu sunt IP-uri valide"
+
+#: ../classes/simple_form_validator.php:543
+msgid "is not a valid IP address"
+msgstr "nu este IP valid"
+
+#: ../classes/simple_form_validator.php:547
+msgid "are not valid ZIP codes"
+msgstr "nu sunt coduri ZIP valide"
+
+#: ../classes/simple_form_validator.php:547
+msgid "is not a valid ZIP code"
+msgstr "nu este cod ZIP valid"
+
+#: ../classes/simple_form_validator.php:551
+msgid "are not valid telephone numbers"
+msgstr "nu sunt numere de telefon valide"
+
+#: ../classes/simple_form_validator.php:551
+msgid "is not a valid telephone number"
+msgstr "nu este numar de telefon valid"
+
+#: ../classes/simple_form_validator.php:554
+msgid "invalid data inserted"
+msgstr "data invalida introdusa"
+
+#: ../classes/simple_form_validator.php:558
+msgid "values are not between the allowed"
+msgstr "valorile nu sunt intre limitele permise"
+
+#: ../classes/simple_form_validator.php:558
+msgid "value is not between the allowed"
+msgstr "valoarea nu este intre limitele permise"
+
+#: ../classes/simple_form_validator.php:562
+msgid "values are between the forbidden"
+msgstr "valorile sunt interzise"
+
+#: ../classes/simple_form_validator.php:562
+msgid "values is between the forbidden"
+msgstr "valoarea este interzisa"
+
+#: ../classes/simple_form_validator.php:565
+msgid "the value doesn't match"
+msgstr "valoarea nu se potriveste"
+
+#: ../classes/simple_form_validator.php:568
+msgid "file size is wrong"
+msgstr "marimea fisierului e gresita"
+
+#: ../collections_manager.php:11
+msgid "Collections Manager"
+msgstr "Manager Colectii"
+
+#: ../collections_manager.php:22
+msgid "Add Collection"
+msgstr "Adauga Colectie"
+
+#: ../collections_manager.php:25
+msgid "Collection Name"
+msgstr "Nume Colectie"
+
+#: ../collections_manager.php:33 ../collections_manager.php:381
+msgid "Collections List"
+msgstr "Lista Colectie"
+
+#: ../collections_manager.php:38
+msgid "Save the collection"
+msgstr "Salveaza colectia"
+
+#: ../collections_manager.php:49 ../collections_manager.php:411
+#: ../tinymce_btn.php:96
+msgid "Select a collection"
+msgstr "Alege o colectie"
+
+#: ../collections_manager.php:130
+msgid "gallery already in the collection"
+msgstr "galeria exista deja in colectie"
+
+#: ../collections_manager.php:261
+msgid "Collection saved"
+msgstr "Colectie salvata"
+
+#: ../collections_manager.php:316
+msgid "Collection added"
+msgstr "Colectie adaugata"
+
+#: ../collections_manager.php:399
+msgid "Delete definitively the collection?"
+msgstr "Sigur stergi colectia ?"
+
+#: ../collections_manager.php:422
+msgid "No existing collections"
+msgstr "Nici o colectie existenta"
+
+#: ../functions.php:322
+msgid "Commands + full text"
+msgstr ""
+
+#: ../functions.php:323
+msgid "Commands + page numbers"
+msgstr ""
+
+#: ../functions.php:324
+msgid "Only arrows"
+msgstr ""
+
+#: ../functions.php:325
+msgid "Only arrows - monoblock"
+msgstr ""
+
+#: ../functions.php:336
+msgid "Fit, center and crop"
+msgstr "Potriveste, centreaza si taie"
+
+#: ../functions.php:337
+msgid "Scale down"
+msgstr "Micsoreaza"
+
+#: ../functions.php:338
+msgid "Scale to fill the height"
+msgstr "Micsoreaza pentru a potrivi inaltimea"
+
+#: ../functions.php:339
+msgid "Scale to fill the width"
+msgstr "Micsoreaza pentru a potrivi latimea"
+
+#: ../functions.php:340
+msgid "Fit images with landscape proportions"
+msgstr "Potriveste imaginile cu proportii de peisaj"
+
+#: ../functions.php:341
+msgid "Fit images with portrait proportions"
+msgstr "Potriveste imaginile cu proportii de portret"
+
+#: ../functions.php:352
+msgid "Fade and slide"
+msgstr "Slabeste si gliseaza"
+
+#: ../functions.php:353
+msgid "Fade"
+msgstr "Slabeste"
+
+#: ../functions.php:354
+msgid "Flash"
+msgstr "Sclipire"
+
+#: ../functions.php:355
+msgid "Pulse"
+msgstr "Pulseaza"
+
+#: ../functions.php:356
+msgid "Slide"
+msgstr "Gliseaza"
+
+#: ../functions.php:357 ../settings.php:1346
+msgid "None"
+msgstr "Nici unul"
+
+#: ../functions.php:368 ../settings.php:1334
+msgid "Always"
+msgstr "Intotdeauna"
+
+#: ../functions.php:369
+msgid "Yes with toggle button"
+msgstr "Da cu comutator"
+
+#: ../functions.php:370
+msgid "No with toggle button"
+msgstr "Nu cu comutator"
+
+#: ../functions.php:371 ../functions.php:667
+msgid "Never"
+msgstr "Niciodata"
+
+#: ../functions.php:622
+msgid "Wordpress Library"
+msgstr "Libraria Wordpress"
+
+#: ../functions.php:623
+msgid "Wordpress Category"
+msgstr "Categorie Wordpress"
+
+#: ../functions.php:624
+msgid "Global Gallery Album"
+msgstr "Album Global Gallery"
+
+#: ../functions.php:625
+msgid "Flickr Set"
+msgstr "Set Flickr"
+
+#: ../functions.php:626
+msgid "Instagram User"
+msgstr "Utilizator Instagram"
+
+#: ../functions.php:627
+msgid "Pinterest Board"
+msgstr "Panou Pinterest"
+
+#: ../functions.php:628
+msgid "Facebook Page Album"
+msgstr "Album pagina Facebook"
+
+#: ../functions.php:629
+msgid "Google+ Album"
+msgstr "Album Google+"
+
+#: ../functions.php:630
+msgid "Dropbox"
+msgstr ""
+
+#: ../functions.php:631
+msgid "Tumblr Blog"
+msgstr ""
+
+#: ../functions.php:632
+#, fuzzy
+msgid "nextGEN Gallery"
+msgstr "Galerie Noua"
+
+#: ../functions.php:633
+msgid "500px User"
+msgstr "Utilizator 500px"
+
+#: ../functions.php:634
+msgid "RSS Feed"
+msgstr ""
+
+#: ../functions.php:645 ../gallery_builder.php:540
+msgid "Set URL"
+msgstr "Seteaza URL"
+
+#: ../functions.php:646 ../gallery_builder.php:541
+msgid "Board URL"
+msgstr "URL panou"
+
+#: ../functions.php:647 ../gallery_builder.php:542
+msgid "Page URL"
+msgstr "URL pagina"
+
+#: ../functions.php:648 ../gallery_builder.php:543
+#, fuzzy
+msgid "User Token"
+msgstr "Simbol de acces"
+
+#: ../functions.php:649 ../gallery_builder.php:544
+#, fuzzy
+msgid "Blog URL"
+msgstr "URL panou"
+
+#: ../functions.php:650 ../gallery_builder.php:545
+msgid "User URL"
+msgstr "URL utilizator"
+
+#: ../functions.php:651 ../gallery_builder.php:546
+#, fuzzy
+msgid "Feed URL"
+msgstr "Seteaza URL"
+
+#: ../functions.php:652 ../gallery_builder.php:547
+msgid "Username"
+msgstr "Utilizator"
+
+#: ../functions.php:660
+msgid "1 Hour"
+msgstr "1 ora"
+
+#: ../functions.php:661
+msgid "2 Hours"
+msgstr "2 ore"
+
+#: ../functions.php:662
+msgid "6 Hours"
+msgstr "6 ore"
+
+#: ../functions.php:663
+msgid "12 Hours"
+msgstr "12 ore"
+
+#: ../functions.php:664
+msgid "1 Day"
+msgstr "1 zi"
+
+#: ../functions.php:665
+msgid "3 Days"
+msgstr "3 zile"
+
+#: ../functions.php:666
+msgid "One week"
+msgstr "O saptamana"
+
+#: ../functions.php:678
+msgid "Column"
+msgstr "Coloana"
+
+#: ../functions.php:679 ../functions.php:680 ../functions.php:681
+#: ../functions.php:682 ../functions.php:683
+msgid "Columns"
+msgstr "Coloane"
+
+#: ../functions.php:832 ../functions.php:1890
+msgid "Error connecting to Instagram"
+msgstr "Eroare conectare Instagram"
+
+#: ../functions.php:837
+msgid "Username not found"
+msgstr "Utilizatorul nu a fost gasit"
+
+#: ../functions.php:868
+msgid "User token incorrect or expired. Try with a new one"
+msgstr ""
+
+#: ../functions.php:881 ../functions.php:900 ../functions.php:1956
+#, fuzzy
+msgid "Connection error. Try using a new token"
+msgstr "Eroare la conectare - verifica utilizatorul sau token-ul"
+
+#: ../functions.php:889
+msgid "Public folder not found"
+msgstr ""
+
+#: ../functions.php:961
+msgid "nextGEN gallery plugin seems missing. No trace in the database"
+msgstr ""
+
+#: ../functions.php:1179 ../functions.php:1261 ../functions.php:1292
+#: ../functions.php:1324 ../functions.php:1351 ../functions.php:1399
+#: ../functions.php:1459 ../functions.php:1511 ../functions.php:1537
+#: ../functions.php:1564 ../functions.php:1631
+msgid "Add to the Gallery"
+msgstr "Adauga la Galerie"
+
+#: ../functions.php:1180 ../functions.php:1222 ../functions.php:1263
+#: ../functions.php:1294 ../functions.php:1326 ../functions.php:1353
+#: ../functions.php:1401 ../functions.php:1461 ../functions.php:1513
+#: ../functions.php:1539 ../functions.php:1566 ../functions.php:1605
+#: ../functions.php:1633
+#, fuzzy
+msgid "Choose images"
+msgstr "Alege imaginile"
+
+#: ../functions.php:1180
+msgid "Manage Images"
+msgstr "Administreaza imaginile"
+
+#: ../functions.php:1183 ../functions.php:1266 ../functions.php:1608
+msgid "search"
+msgstr ""
+
+#: ../functions.php:1184 ../functions.php:1223 ../functions.php:1267
+#: ../functions.php:1295 ../functions.php:1327 ../functions.php:1354
+#: ../functions.php:1402 ../functions.php:1462 ../functions.php:1514
+#: ../functions.php:1540 ../functions.php:1567 ../functions.php:1609
+#: ../functions.php:1634
+#, fuzzy
+msgid "Select all"
+msgstr "selecteaza tot"
+
+#: ../functions.php:1206
+msgid "Select a category"
+msgstr "Alege o categorie"
+
+#: ../functions.php:1216
+msgid "Choose the WP gallery to use as image source"
+msgstr "Alege galeria WP ca sursa de imagini"
+
+#: ../functions.php:1239
+msgid "No albums found"
+msgstr "Nici un album gasit"
+
+#: ../functions.php:1245
+msgid "Choose an album"
+msgstr "Alege un album"
+
+#: ../functions.php:1247 ../functions.php:1385 ../functions.php:1445
+#: ../functions.php:1497
+msgid "Select an album"
+msgstr "Selecteaza un album"
+
+#: ../functions.php:1257
+msgid "Choose the gallery to use as image source"
+msgstr "Alege galeria ca sursa de imagini"
+
+#: ../functions.php:1282
+msgid "ID not found - please insert a valid set URL"
+msgstr "ID negasit - insereaza un URL valid"
+
+#: ../functions.php:1312
+msgid "Connection failed - Username or token are wrong"
+msgstr "Conexiune esuata - utilizator sau token gresit"
+
+#: ../functions.php:1341
+msgid "Invalid URL - please insert a valid board URL"
+msgstr "URL invalid - insereaza un URL valid"
+
+#: ../functions.php:1371
+msgid "Connection Error - check the Facebook page URL"
+msgstr "Eroare la conexiune - verifica URL-ul paginii de Facebook"
+
+#: ../functions.php:1383 ../functions.php:1443 ../functions.php:1495
+msgid "Choose an Album"
+msgstr "Alege un album"
+
+#: ../functions.php:1395 ../functions.php:1455 ../functions.php:1507
+#, fuzzy
+msgid "Choose the album to use as image source"
+msgstr "Alege galeria ca sursa de imagini"
+
+#: ../functions.php:1419
+msgid "Connection failed - Username or password are wrong"
+msgstr "Conexiune esuata - utilizator sau parola gresita"
+
+#: ../functions.php:1475
+#, fuzzy
+msgid "Insert a valid token"
+msgstr "nu este ora valida"
+
+#: ../functions.php:1527
+#, fuzzy
+msgid "Invalid URL - please insert a valid blog URL"
+msgstr "URL invalid - insereaza un URL valid"
+
+#: ../functions.php:1554
+msgid "Invalid URL - please insert a valid user URL"
+msgstr "URL invalid - insereaza un URL valid"
+
+#: ../functions.php:1599
+#, fuzzy
+msgid "Choose the nextGEN gallery to use as image source"
+msgstr "Alege galeria ca sursa de imagini"
+
+#: ../functions.php:1622
+#, fuzzy
+msgid "Invalid URL - please insert a valid user feed URL"
+msgstr "URL invalid - insereaza un URL valid"
+
+#: ../functions.php:1800
+msgid "Error connecting to Flickr"
+msgstr "Eroare conectare la Flickr"
+
+#: ../functions.php:1803
+msgid "Connection Error - check your set URL"
+msgstr "Eroare de conectare - verifica URL-ul"
+
+#: ../functions.php:1804
+msgid "Invalid Set ID - check your set URL"
+msgstr "ID invalid - verifica URL-ul"
+
+#: ../functions.php:1833
+msgid "Connection Error - check your board URL"
+msgstr "Eroare la conectare - verifica URL-ul"
+
+#: ../functions.php:1834 ../functions.php:2099
+msgid "Your server doesn't support SimpleXML"
+msgstr "Server-ul nu suporta SimpleXML"
+
+#: ../functions.php:1893
+msgid "Connection Error - Check your username or token"
+msgstr "Eroare la conectare - verifica utilizatorul sau token-ul"
+
+#: ../functions.php:1955
+#, fuzzy
+msgid "Connection error. Check folders name"
+msgstr "Eroare la conectare - verifica URL-ul"
+
+#: ../functions.php:2010
+#, fuzzy
+msgid "Error connecting to Tumblr"
+msgstr "Eroare conectare la Flickr"
+
+#: ../functions.php:2013
+#, fuzzy
+msgid "Connection Error - Check your blog URL"
+msgstr "Eroare la conectare - verifica URL-ul"
+
+#: ../functions.php:2044
+msgid "Error connecting to 500px"
+msgstr "Eroare de conectare la 500px"
+
+#: ../functions.php:2047
+msgid "Connection Error - Check your User URL"
+msgstr "Eroare la conectare - verifica URL-ul"
+
+#: ../functions.php:2072
+msgid "Gallery does not exist. Check in nextGen Gallery panel"
+msgstr ""
+
+#: ../functions.php:2103
+#, fuzzy
+msgid "Error retrieving the feed"
+msgstr "Eroare la crearea fisierului"
+
+#: ../functions.php:2225
+msgid "error during the image creation"
+msgstr "eroare in timpul crearii imaginilor"
+
+#: ../gallery_builder.php:7
+msgid "Publish"
+msgstr "Publica"
+
+#: ../gallery_builder.php:9
+msgid "Gallery Type"
+msgstr "Tipul Galeriei"
+
+#: ../gallery_builder.php:10
+msgid "Main Settings"
+msgstr "Setari Principale"
+
+#: ../gallery_builder.php:11
+msgid "Sort mode"
+msgstr "Mod de Sortare"
+
+#: ../gallery_builder.php:14
+msgid "Watermark Cache"
+msgstr "Cache Watermark"
+
+#: ../gallery_builder.php:17
+msgid "Specific Settings"
+msgstr "Setari Specifice"
+
+#: ../gallery_builder.php:18
+msgid "Gallery Builder"
+msgstr "Constructor Galerie"
+
+#: ../gallery_builder.php:36
+msgid "Choose the type"
+msgstr "Alege tipul"
+
+#: ../gallery_builder.php:37
+msgid "Select a type"
+msgstr "Selecteaza un tip"
+
+#: ../gallery_builder.php:51
+#, fuzzy
+msgid "Get your Dropbox token"
+msgstr "Ia simbolul de la Instagram"
+
+#: ../gallery_builder.php:55
+msgid "Access Token"
+msgstr "Simbol de acces"
+
+#: ../gallery_builder.php:55
+msgid "Password"
+msgstr "Parola"
+
+#: ../gallery_builder.php:58
+msgid "Get your Instagram token"
+msgstr "Ia simbolul de la Instagram"
+
+#: ../gallery_builder.php:108 ../settings.php:319 ../settings.php:403
+#: ../wp_gallery_manag.php:72
+msgid "Select a layout"
+msgstr "Alege o amplasare"
+
+#: ../gallery_builder.php:115 ../settings.php:317 ../wp_gallery_manag.php:71
+msgid "Gallery Layout"
+msgstr "Amplasare Galerie"
+
+#: ../gallery_builder.php:123 ../settings.php:740 ../wp_gallery_manag.php:80
+msgid "Thumbnail Sizes"
+msgstr "Marime imagini in miniatura"
+
+#: ../gallery_builder.php:138 ../settings.php:771 ../wp_gallery_manag.php:85
+msgid "Image Columns"
+msgstr "Coloane Imagini"
+
+#: ../gallery_builder.php:144
+msgid "Thumbs Height"
+msgstr "Inaltime imagine in miniatura"
+
+#: ../gallery_builder.php:150 ../wp_gallery_manag.php:105
+msgid "As Default"
+msgstr "Ca Standard"
+
+#: ../gallery_builder.php:155 ../settings.php:328 ../wp_gallery_manag.php:103
+msgid "Use pagination?"
+msgstr "Foloseste Paginatia"
+
+#: ../gallery_builder.php:161 ../settings.php:20 ../settings.php:336
+#: ../wp_gallery_manag.php:111
+msgid "Images per page"
+msgstr "Imagini pe pagina"
+
+#: ../gallery_builder.php:235
+msgid "Create the watermark cache"
+msgstr "Creeaza cache watermark"
+
+#: ../gallery_builder.php:246 ../settings.php:1554
+msgid "might take very long if you have many images to manage"
+msgstr "poate dura mult timp daca ai multe imagini de administrat"
+
+#: ../gallery_builder.php:258 ../settings.php:1560
+msgid "Cache created succesfully"
+msgstr "Cache creat cu succes"
+
+#: ../gallery_builder.php:261 ../settings.php:1563
+msgid ""
+"Process took too much time for your server. Try creating the cache again"
+msgstr ""
+"Procesul a durat prea mult pentru server. Incearca sa creezi cache-ul din nou"
+
+#: ../gallery_builder.php:264 ../settings.php:1566
+#, fuzzy
+msgid ""
+"The process requires too much memory for your server. Try applying it to "
+"smaller images"
+msgstr ""
+"Procesul a durat prea mult pentru server. Incearca sa creezi cache-ul din nou"
+
+#: ../gallery_builder.php:267 ../settings.php:1569
+msgid "Error during the cache creation"
+msgstr "Eroare la crearea cache-ului"
+
+#: ../gallery_builder.php:327 ../gallery_builder.php:617
+#: ../gallery_builder.php:986 ../gallery_builder.php:1186
+msgid "Select the WP images or the images source"
+msgstr "Selecteaza imaginile WP sau sursa imaginilor"
+
+#: ../gallery_builder.php:333 ../gallery_builder.php:670
+#: ../gallery_builder.php:797
+msgid "select all"
+msgstr "selecteaza tot"
+
+#: ../gallery_builder.php:477
+msgid "Select the thumbnail center clicking on a cell"
+msgstr "Selecteaza centrul apasand o celula"
+
+#: ../gallery_builder.php:532 ../gallery_builder.php:1179
+msgid "The current gallery will be erased. Continue?"
+msgstr "Galeria actuala va fi stearsa. Continui ?"
+
+#: ../gallery_builder.php:805
+msgid "deselect all"
+msgstr "deselecteaza tot"
+
+#: ../gallery_builder.php:828
+msgid "Bulk Options"
+msgstr "Optiuni vrac"
+
+#: ../gallery_builder.php:830
+msgid "Remove Images"
+msgstr "Inlatura imaginile"
+
+#: ../gallery_builder.php:831
+msgid "Set the Author"
+msgstr "Seteaza Autorul"
+
+#: ../gallery_builder.php:832
+msgid "Set the Title"
+msgstr "Seteaza titlul"
+
+#: ../gallery_builder.php:833
+msgid "Set the Description"
+msgstr "Seteaza Descrierea"
+
+#: ../gallery_builder.php:834
+msgid "Set the Thumb Center"
+msgstr "Seteaza centrul imaginii in miniatura"
+
+#: ../gallery_builder.php:841
+msgid "Top-left"
+msgstr "Sus-stanga"
+
+#: ../gallery_builder.php:842
+msgid "Top"
+msgstr "Sus"
+
+#: ../gallery_builder.php:843
+msgid "Top-right"
+msgstr "Sus-dreapta"
+
+#: ../gallery_builder.php:844
+msgid "Left"
+msgstr "Stanga"
+
+#: ../gallery_builder.php:845
+msgid "Center"
+msgstr "Centru"
+
+#: ../gallery_builder.php:846
+msgid "Right"
+msgstr "Dreapta"
+
+#: ../gallery_builder.php:847
+msgid "Bottom-left"
+msgstr "Jos-stanga"
+
+#: ../gallery_builder.php:848
+msgid "Bottom"
+msgstr "Jos"
+
+#: ../gallery_builder.php:849
+msgid "Bottom-right"
+msgstr "Jos-dreapta"
+
+#: ../gallery_builder.php:852
+msgid "Apply"
+msgstr "Aplica"
+
+#: ../gallery_builder.php:890
+msgid "Remove the selected images?"
+msgstr "Inlatura imaginile selectate"
+
+#: ../gallery_builder.php:1297
+msgid "Go to the gallery preview"
+msgstr "Previzualizeaza galeria"
+
+#: ../lc_update_notifier.php:216
+msgid "The following premium plugins have new versions available"
+msgstr ""
+
+#: ../lc_update_notifier.php:235
+msgid "You have version"
+msgstr ""
+
+#: ../lc_update_notifier.php:235
+msgid "installed"
+msgstr ""
+
+#: ../lightboxes.php:290
+#, fuzzy
+msgid "All photos"
+msgstr "Toate Colectiile"
+
+#: ../settings.php:7
+msgid "Global Gallery Settings"
+msgstr "Setari Global Gallery"
+
+#: ../settings.php:18
+msgid "Default Layout"
+msgstr "Amplasare standard"
+
+#: ../settings.php:19
+msgid "Use Pagination"
+msgstr "Foloseste paginatia"
+
+#: ../settings.php:21
+msgid "Preview page"
+msgstr "Previzualizeaza pagina"
+
+#: ../settings.php:22
+msgid "Apply the plugin to WP galleries"
+msgstr ""
+
+#: ../settings.php:23 ../settings.php:419
+msgid "Filters Alignment"
+msgstr ""
+
+#: ../settings.php:24
+#, fuzzy
+msgid "Use old filters style"
+msgstr "Stil Slider"
+
+#: ../settings.php:25
+msgid "Back to collection - custom text"
+msgstr ""
+
+#: ../settings.php:26
+#, fuzzy
+msgid "Show loaded collection galleries title "
+msgstr "Adauga Galerii Colectie"
+
+#: ../settings.php:28
+#, fuzzy
+msgid "Pagination button style"
+msgstr "Paginatie"
+
+#: ../settings.php:29
+#, fuzzy
+msgid "Infinite scroll"
+msgstr "Lista Infinita"
+
+#: ../settings.php:30
+msgid "Pagination button alignment"
+msgstr ""
+
+#: ../settings.php:31
+msgid "Pagination button layout"
+msgstr ""
+
+#: ../settings.php:33
+msgid "Slider style"
+msgstr "Stil Slider"
+
+#: ../settings.php:34
+msgid "Hide slider borders"
+msgstr ""
+
+#: ../settings.php:35
+msgid "Slider crop method"
+msgstr "Metoda taiere slider"
+
+#: ../settings.php:36
+msgid "Slider transition effect"
+msgstr "Efect de tranzitie slider"
+
+#: ../settings.php:37
+msgid "Slider transition duration"
+msgstr "Durata tranzitie slider"
+
+#: ../settings.php:38
+msgid "Slider - Autoplay slideshow"
+msgstr "Slider - porneste singur"
+
+#: ../settings.php:39
+msgid "Slider - Slideshow interval"
+msgstr "Slider - interval schimbare"
+
+#: ../settings.php:40
+#, fuzzy
+msgid "Slider - thumbnails behavior"
+msgstr "Slider - vizibilitate imagini in miniatura"
+
+#: ../settings.php:41
+#, fuzzy
+msgid "Slider - thumbnails width"
+msgstr "Slider - vizibilitate imagini in miniatura"
+
+#: ../settings.php:42
+#, fuzzy
+msgid "Slider - thumbnails height"
+msgstr "Inaltime Imagini mici"
+
+#: ../settings.php:43
+#, fuzzy
+msgid "Slider - hide texts by default"
+msgstr "Slider - elemente de ascuns"
+
+#: ../settings.php:44
+msgid "Slider - elements to fide"
+msgstr "Slider - elemente de ascuns"
+
+#: ../settings.php:46
+#, fuzzy
+msgid "Global Gallery albums basepath"
+msgstr "Album Global Gallery"
+
+#: ../settings.php:47
+#, fuzzy
+msgid "Global Gallery albums baseurl"
+msgstr "Album Global Gallery"
+
+#: ../settings.php:49 ../settings.php:578
+msgid "Disable right click"
+msgstr "Dezactiveaza click dreapta"
+
+#: ../settings.php:50
+msgid "Thumbnails Quality"
+msgstr "Calitatea imaginilor mici"
+
+#: ../settings.php:51 ../settings.php:635
+#, fuzzy
+msgid "Global Gallery Albums - images title"
+msgstr "Album Global Gallery"
+
+#: ../settings.php:52
+#, fuzzy
+msgid "Use thumbnails in admin"
+msgstr "Folosire navigatie pe imagini mici"
+
+#: ../settings.php:53
+msgid "Enable AJAX mode"
+msgstr "Activeaza modul AJAX"
+
+#: ../settings.php:54
+msgid "Disable Deeplinking"
+msgstr ""
+
+#: ../settings.php:55
+msgid "Force inline css usage"
+msgstr ""
+
+#: ../settings.php:56
+msgid "Use TimThumb"
+msgstr "Utilizeaza TimThumb"
+
+#: ../settings.php:57
+msgid "Images Check Interval"
+msgstr "Interval Verificare Imagini"
+
+#: ../settings.php:58
+msgid "Javascript in Header"
+msgstr "Javascript in Antet"
+
+#: ../settings.php:60
+msgid "Thumbnails Width"
+msgstr "Latime Imagini mici"
+
+#: ../settings.php:61 ../settings.php:812 ../settings.php:866
+#: ../wp_gallery_manag.php:96
+msgid "Thumbnails Height"
+msgstr "Inaltime Imagini mici"
+
+#: ../settings.php:62
+msgid "Standard horizontal margin"
+msgstr "Margine orizontala standard"
+
+#: ../settings.php:63
+msgid "Standard vertical margin"
+msgstr "Margine verticala standard"
+
+#: ../settings.php:64
+msgid "Masonry Columns"
+msgstr "Coloane Masonry"
+
+#: ../settings.php:65
+msgid "Masonry Image Margin"
+msgstr "Margine imagini Masonry"
+
+#: ../settings.php:66
+msgid "Masonry base-width"
+msgstr "Masonry latimea-de-baza"
+
+#: ../settings.php:67
+msgid "Masonry min width"
+msgstr "Masonry latime minima"
+
+#: ../settings.php:68
+msgid "PhotoString Thumbs height"
+msgstr "PhotoString inaltime imagini"
+
+#: ../settings.php:69
+msgid "PhotoString Image Margin"
+msgstr "PhotoString margine imagine"
+
+#: ../settings.php:70
+msgid "PhotoString min width"
+msgstr "PhotoString latime minima"
+
+#: ../settings.php:71
+msgid "Collection columns"
+msgstr "Coloane Colectie"
+
+#: ../settings.php:72
+msgid "Collection columns min width"
+msgstr "Colectie - latime minima a coloanei"
+
+#: ../settings.php:73
+msgid "Collection Height"
+msgstr "Inaltime Colectie"
+
+#: ../settings.php:74
+msgid "Collections horizontal margin"
+msgstr "Marginea orizontala a Colectiei"
+
+#: ../settings.php:75
+msgid "Collections vertical margin"
+msgstr "Marginea verticala a Colectiei"
+
+#: ../settings.php:76
+msgid "Collections - Titles under images"
+msgstr "Colectii - Titluri sub imagini"
+
+#: ../settings.php:78
+msgid "Image Border"
+msgstr "Contur Imagine"
+
+#: ../settings.php:79
+msgid "Cells Border Radius"
+msgstr "Raza de contur pentru celule"
+
+#: ../settings.php:80
+msgid "Images border Color"
+msgstr "Culoare contur Imagini"
+
+#: ../settings.php:81
+msgid "Cells Shadow"
+msgstr "Umbra celule"
+
+#: ../settings.php:82 ../settings.php:975
+msgid "Thumbnail Effect"
+msgstr "Efect imagini mici"
+
+#: ../settings.php:83 ../settings.php:990
+msgid "Overlay Type"
+msgstr "Efect acoperire"
+
+#: ../settings.php:84 ../settings.php:1001
+msgid "Main Overlay Type"
+msgstr "Tipul principal de acoperire"
+
+#: ../settings.php:85
+msgid "Main Overlay always visible"
+msgstr "Tipul principal de acoperire intotdeauna vizibil"
+
+#: ../settings.php:86 ../settings.php:1020
+msgid "Main Overlay Color"
+msgstr "Culoare acoperire principala"
+
+#: ../settings.php:87 ../settings.php:1027
+msgid "Main Overlay Opacity"
+msgstr "Opacitate acoperire principala"
+
+#: ../settings.php:88 ../settings.php:1036
+msgid "Main Overlay Text Color"
+msgstr "Culoare text acoperire principala"
+
+#: ../settings.php:89 ../settings.php:1043
+msgid "Secondary Overlay Position"
+msgstr "Pozitia acoperire secundara"
+
+#: ../settings.php:90 ../settings.php:1055
+msgid "Secondary Overlay Color"
+msgstr "Culoare acoperire secundara"
+
+#: ../settings.php:91
+#, fuzzy
+msgid "Icons Color"
+msgstr "Culoare contur"
+
+#: ../settings.php:92
+#, fuzzy
+msgid "Text under images - Title color"
+msgstr "Seteaza culoarea conturului imaginilor"
+
+#: ../settings.php:93
+#, fuzzy
+msgid "Text under images - Description color"
+msgstr "Seteaza culoarea conturului imaginilor"
+
+#: ../settings.php:94
+#, fuzzy
+msgid "Filters Text Color"
+msgstr "Culoare text acoperire principala"
+
+#: ../settings.php:95
+msgid "Filters Background Color"
+msgstr ""
+
+#: ../settings.php:96
+#, fuzzy
+msgid "Filters Border Color"
+msgstr "Culoare contur"
+
+#: ../settings.php:97
+msgid "Filters Text Color - hover status"
+msgstr ""
+
+#: ../settings.php:98
+msgid "Filters Background Color - hover status"
+msgstr ""
+
+#: ../settings.php:99
+msgid "Filters Border Color - hover status"
+msgstr ""
+
+#: ../settings.php:100
+msgid "Filters Text Color - selected status"
+msgstr ""
+
+#: ../settings.php:101
+msgid "Filters Background Color - selected status"
+msgstr ""
+
+#: ../settings.php:102
+msgid "Filters Border Color - selected status"
+msgstr ""
+
+#: ../settings.php:103
+#, fuzzy
+msgid "Filter Border Radius"
+msgstr "Raza de contur pentru celule"
+
+#: ../settings.php:105
+msgid "Lightbox to Use"
+msgstr "Lightbox de utilizat"
+
+#: ../settings.php:106 ../settings.php:107
+msgid "Lightbox style"
+msgstr "Stil lightbox"
+
+#: ../settings.php:108
+msgid "Lightbox overlay opacity"
+msgstr "Opacitate lightbox"
+
+#: ../settings.php:109
+msgid "Lightbox overlay color"
+msgstr "Culoare acoperire lightbox"
+
+#: ../settings.php:110
+msgid "Lightbox overlay pattern"
+msgstr "Model acoperire lightbox"
+
+#: ../settings.php:111
+msgid "Lightbox max width"
+msgstr "Latime maxima lightbox"
+
+#: ../settings.php:112
+msgid "Lightbox max height"
+msgstr "Inaltime maxima lightbox"
+
+#: ../settings.php:113
+msgid "Lightbox padding"
+msgstr "Captuseala lightbox"
+
+#: ../settings.php:114
+msgid "Lightbox border width"
+msgstr "Latime margine lightbox"
+
+#: ../settings.php:115
+msgid "Lightbox border color"
+msgstr "Culoare contur lightbox"
+
+#: ../settings.php:116
+msgid "Lightbox corner radius"
+msgstr "Raza de colt lightbox"
+
+#: ../settings.php:117
+msgid "Lightbox text position"
+msgstr "Pozitie text lightbox"
+
+#: ../settings.php:118
+msgid "Lightbox thumb navigation"
+msgstr "Imagini mici de navigare lightbox"
+
+#: ../settings.php:119
+msgid "Lightbox fullscreen mode"
+msgstr "Lightbox pe tot ecranul"
+
+#: ../settings.php:120
+msgid "Lightbox only fullscreen"
+msgstr "Lightbox numai pe tot ecranul"
+
+#: ../settings.php:121
+msgid "Lightbox fullscreen resize&crop"
+msgstr "Redimensionare&taiere lightbox pe tot ecranul"
+
+#: ../settings.php:122
+msgid "Enable Socials"
+msgstr "Activeaza retelele de socializare"
+
+#: ../settings.php:123
+msgid "Lightbox slideshow"
+msgstr "Lightbox slideshow"
+
+#: ../settings.php:124
+msgid "Lightbox slideshow interval"
+msgstr "Interval slideshow lightbox"
+
+#: ../settings.php:125
+msgid "Lightbox animation time"
+msgstr "Timp animatie lightbox"
+
+#: ../settings.php:126
+#, fuzzy
+msgid "Lightbox animation behavior"
+msgstr "Timp animatie lightbox"
+
+#: ../settings.php:128
+msgid "Watermark Image"
+msgstr "Imagine Watermark"
+
+#: ../settings.php:129 ../settings.php:1438
+msgid "Watermark Opacity"
+msgstr "Opacitate Watermark"
+
+#: ../settings.php:130
+msgid "Watermark Position"
+msgstr "Pozitie Watermarc"
+
+#: ../settings.php:132 ../settings.php:310 ../settings.php:1493
+msgid "Custom CSS"
+msgstr "CSS personalizat"
+
+#: ../settings.php:135
+msgid "JS for old jQuery"
+msgstr "JS pentru jQuery vechi"
+
+#: ../settings.php:167
+msgid ""
+"An error occurred during dynamic CSS creation. The code will be used inline "
+"anyway"
+msgstr ""
+"A aparut o eroare in timpul crearii CSS-ului dinamic. Totusi, codul va fi "
+"folosit"
+
+#: ../settings.php:172
+msgid "Options saved."
+msgstr "Optiuni salvate."
+
+#: ../settings.php:305
+msgid "Main Options"
+msgstr "Optiuni principale"
+
+#: ../settings.php:306
+msgid "Layouts"
+msgstr "Amplasare"
+
+#: ../settings.php:307
+msgid "Styling"
+msgstr "Stiluri"
+
+#: ../settings.php:308
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../settings.php:309 ../settings.php:1406
+msgid "Watermark"
+msgstr "Watermark"
+
+#: ../settings.php:314
+msgid "Default Gallery Settings"
+msgstr "Setari Standard ale Galeriei"
+
+#: ../settings.php:325
+msgid "Set the default gallery layout"
+msgstr "Seteaza amplasamentul standard al galeriei"
+
+#: ../settings.php:333
+msgid "Set if split galleries into pages by default"
+msgstr "Seteaza daca galeria se imparte pe mai multe pagini"
+
+#: ../settings.php:342
+msgid "Set the default images number per page"
+msgstr "Seteaza numarul standard de imagini pe pagina"
+
+#: ../settings.php:345
+msgid "Preview container"
+msgstr "Container Previzualizare"
+
+#: ../settings.php:347
+msgid "Select a page"
+msgstr "Alege o pagina"
+
+#: ../settings.php:357
+msgid "Choose the page to use as preview container"
+msgstr "Alege pagina pe post de container previzualizare"
+
+#: ../settings.php:360
+msgid "Use the plugin with Wordpress galleries?"
+msgstr ""
+
+#: ../settings.php:365
+msgid "If checked apply by default plugin systems to WP galleries"
+msgstr ""
+
+#: ../settings.php:369
+#, fuzzy
+msgid "Pagination Settings"
+msgstr "Setari Principale"
+
+#: ../settings.php:372 ../settings.php:457 ../settings.php:1188
+#: ../settings.php:1198
+msgid "Style"
+msgstr "Stil"
+
+#: ../settings.php:374 ../settings.php:421 ../settings.php:459
+#: ../settings.php:911 ../settings.php:1190 ../settings.php:1200
+#: ../settings.php:1393
+msgid "Select a style"
+msgstr "Alege un stil"
+
+#: ../settings.php:379
+#, fuzzy
+msgid "Select the pagination buttons style"
+msgstr "Alege stilul lightbox-ului"
+
+#: ../settings.php:382
+msgid "Use infinite scroll?"
+msgstr "Foloseste rulare infinita"
+
+#: ../settings.php:387
+msgid "If checked use infinite scroll instead of normal pagination"
+msgstr "Daca bifat, foloseste rulare infinita in loc de paginatie"
+
+#: ../settings.php:390
+msgid "Button alignment"
+msgstr ""
+
+#: ../settings.php:398
+#, fuzzy
+msgid "Select the pagination button alignment"
+msgstr "Alege efectul de tranzitie dintre slide-uri"
+
+#: ../settings.php:401
+#, fuzzy
+msgid "Standard pagination - Layout"
+msgstr "Amplasament Standard"
+
+#: ../settings.php:412
+#, fuzzy
+msgid "Select the layout to use for the standard pagination elements"
+msgstr "Seteaza marimea standard pentru amplasament standard cu imagini mici"
+
+#: ../settings.php:416
+#, fuzzy
+msgid "Collection Settings"
+msgstr "Inaltime Colectie"
+
+#: ../settings.php:427
+#, fuzzy
+msgid "Select the filters alignment"
+msgstr "Alege stilul pentru slider"
+
+#: ../settings.php:430
+#, fuzzy
+msgid "Use the old filters style?"
+msgstr "Alege stilul pentru slider"
+
+#: ../settings.php:435
+msgid "If checked use the old Global Gallery filters style"
+msgstr ""
+
+#: ../settings.php:438
+msgid "\"Back to collection\" - custom text"
+msgstr ""
+
+#: ../settings.php:442
+msgid "Use a custom string for the \"back to collection\" button"
+msgstr ""
+
+#: ../settings.php:445
+#, fuzzy
+msgid "Display loaded galleries title?"
+msgstr "Afiseasa galeriile aleatoriu"
+
+#: ../settings.php:450
+#, fuzzy
+msgid "If checked display the title on top of loaded galleries"
+msgstr "Daca bifat, afiseaza o umbra in jurul imaginilor"
+
+#: ../settings.php:454
+msgid "Slider Settings"
+msgstr "Setari Slider"
+
+#: ../settings.php:464
+msgid "Select the slider style"
+msgstr "Alege stilul pentru slider"
+
+#: ../settings.php:467
+msgid "Hide borders and shadows?"
+msgstr ""
+
+#: ../settings.php:472
+msgid "If enabled, displays the slider without external borders and shadows"
+msgstr ""
+
+#: ../settings.php:475
+msgid "Crop Method"
+msgstr "Metoda Taiere"
+
+#: ../settings.php:477
+msgid "Select a method"
+msgstr "Alege o metoda"
+
+#: ../settings.php:486
+msgid "Select the cropping method for the shown image"
+msgstr "Alege metoda de taiere pentru imaginea afisata"
+
+#: ../settings.php:489
+msgid "Transition effect"
+msgstr "Efect de tranzitie"
+
+#: ../settings.php:491
+msgid "Select a transition"
+msgstr "Alege o tranzitie"
+
+#: ../settings.php:500
+msgid "Select the transition effect between slides"
+msgstr "Alege efectul de tranzitie dintre slide-uri"
+
+#: ../settings.php:503
+msgid "Transition duration"
+msgstr "Durata tranzitie"
+
+#: ../settings.php:509
+msgid "How much time the transition takes (in milliseconds - default 400)"
+msgstr "Cat timp dureaza tranzitia (in milisecunde - standard 400)"
+
+#: ../settings.php:512
+msgid "Autoplay slideshow?"
+msgstr "Pornire automata slideshow ?"
+
+#: ../settings.php:517
+msgid "Check to autoplay the slider slideshow"
+msgstr "Bifeaza pentru a porni automat slideshow-ul"
+
+#: ../settings.php:520
+msgid "Slideshow interval"
+msgstr "Interval slideshow"
+
+#: ../settings.php:526
+msgid "How long each slide will be shown (in milliseconds - default 3000)"
+msgstr "Cat timp va fi aratat fiecare slide (in milisecunde - standard 3000)"
+
+#: ../settings.php:529
+msgid "Show thumbnails?"
+msgstr "Arata imagini mici ?"
+
+#: ../settings.php:540
+msgid "Select if and how the thumbs will be shown"
+msgstr "Selecteaza daca si cum imaginile mici vor fi aratate"
+
+#: ../settings.php:543
+#, fuzzy
+msgid "Thumbnails size"
+msgstr "Marime imagini in miniatura"
+
+#: ../settings.php:549
+#, fuzzy
+msgid "Set slider thumbnails size"
+msgstr "Seteaza efectul imaginilor mici"
+
+#: ../settings.php:552
+msgid "Hide image's data by default?"
+msgstr ""
+
+#: ../settings.php:557
+msgid "Check hide image's data by default"
+msgstr ""
+
+#: ../settings.php:560
+#, fuzzy
+msgid "Elements to remove"
+msgstr "Elemente de ascuns"
+
+#: ../settings.php:564
+msgid "Play button"
+msgstr "Buton pornire"
+
+#: ../settings.php:564
+msgid "Lightbox button"
+msgstr "Buton lightbox"
+
+#: ../settings.php:564
+msgid "Image's data"
+msgstr "Date imagine"
+
+#: ../settings.php:571
+#, fuzzy
+msgid "Select the elements you want to remove in the slider"
+msgstr "Alege ce elemente vrei sa ascunzi in slider"
+
+#: ../settings.php:575
+msgid "Image Protection"
+msgstr "Protectie Imagine"
+
+#: ../settings.php:583
+msgid "Check to disable right click on gallery images"
+msgstr "Bifeaza pentru a dezactiva click dreapta in galerii"
+
+#: ../settings.php:588
+#, fuzzy
+msgid "Global Gallery album bases"
+msgstr "Album Global Gallery"
+
+#: ../settings.php:589
+msgid "changing these values could break albums, be careful"
+msgstr ""
+
+#: ../settings.php:593
+#, fuzzy
+msgid "Albums basepath"
+msgstr "Cale de baza Timthumb"
+
+#: ../settings.php:599 ../settings.php:608
+#, fuzzy
+msgid "Default one is"
+msgstr "Standard e"
+
+#: ../settings.php:602
+msgid "Albums baseurl"
+msgstr ""
+
+#: ../settings.php:612
+msgid "Advanced"
+msgstr "Avansat"
+
+#: ../settings.php:615
+#, fuzzy
+msgid "Thumbnails quality"
+msgstr "Calitatea imaginilor mici"
+
+#: ../settings.php:622
+msgid "Quality of the images thumbnail"
+msgstr "Calitatea imaginilor mici"
+
+#: ../settings.php:625
+#, fuzzy
+msgid "Use thumbnails on admin side?"
+msgstr "Folosire navigatie pe imagini mici"
+
+#: ../settings.php:631
+msgid ""
+"Check to use thumbnails on admin side. Could slow down the server in case of "
+"huge galleries"
+msgstr ""
+
+#: ../settings.php:638
+#, fuzzy
+msgid "File name"
+msgstr "Fisierul nu e imagine."
+
+#: ../settings.php:639
+msgid "IPTC metadata"
+msgstr ""
+
+#: ../settings.php:642
+msgid "Choose which data is used to get GG album images title"
+msgstr ""
+
+#: ../settings.php:645
+#, fuzzy
+msgid "Images check interval"
+msgstr "Interval Verificare Imagini"
+
+#: ../settings.php:649
+msgid "Don't check"
+msgstr "Nu verifica"
+
+#: ../settings.php:660
+msgid "Choose the interval to check for expired images in galleries"
+msgstr "Alege intervalul de verificat imagini invalide in galerii"
+
+#: ../settings.php:663
+msgid "Enable the AJAX support?"
+msgstr "Activeaza suport AJAX ?"
+
+#: ../settings.php:669
+msgid "Enable the support for AJAX-loaded galleries and collections"
+msgstr "Aciteaza suportul pentru galeriile si colectiile bazate pe AJAX"
+
+#: ../settings.php:673
+msgid "Disable deeplinking?"
+msgstr ""
+
+#: ../settings.php:679
+msgid "If checked, disable collection filters and galleries deeplinking"
+msgstr ""
+
+#: ../settings.php:683
+msgid "Use custom CSS inline?"
+msgstr ""
+
+#: ../settings.php:689
+msgid "If checked, uses custom CSS inline (useful for multisite installations)"
+msgstr ""
+
+#: ../settings.php:693
+msgid "Use TimThumb?"
+msgstr "Folosire TimThumb ?"
+
+#: ../settings.php:699
+msgid "If checked, use Timthumb instead of Easy WP Thumbs"
+msgstr "Daca bifat, foloseste Timthumb in loc de Easy WP Thumbs"
+
+#: ../settings.php:703
+msgid "Use javascript in the header?"
+msgstr "Foloseste javascript in antet ?"
+
+#: ../settings.php:709
+msgid ""
+"Put javascript in the website header, check it ONLY IF you notice some "
+"incompatibilities"
+msgstr ""
+"Adauga javascript in antet, bifeaza doar DACA observi incompatibilitati"
+
+#: ../settings.php:715
+msgid "Timthumb basepath"
+msgstr "Cale de baza Timthumb"
+
+#: ../settings.php:715
+msgid "for MU installations"
+msgstr "pentru retea Wordpress"
+
+#: ../settings.php:718
+msgid "Basepath of the WP MU images"
+msgstr "calea de baza pentru imaginile din reteaua Wordpress"
+
+#: ../settings.php:723
+msgid "By default is"
+msgstr "Standard e"
+
+#: ../settings.php:737
+msgid "Standard Layout"
+msgstr "Amplasament Standard"
+
+#: ../settings.php:746
+msgid "Set the default sizes of the standard layout thumbnails"
+msgstr "Seteaza marimea standard pentru amplasament standard cu imagini mici"
+
+#: ../settings.php:749 ../settings.php:874
+msgid "Horizontal Margin"
+msgstr "Margine Orizontala"
+
+#: ../settings.php:755 ../settings.php:880
+msgid "Set the horizontal margin between the images"
+msgstr "Seteaza marginea orizontala dintre imagini"
+
+#: ../settings.php:758 ../settings.php:883
+msgid "Vertical Margin"
+msgstr "Margine Verticala"
+
+#: ../settings.php:764 ../settings.php:889
+msgid "Set the vertical margin between the images"
+msgstr "Seteaza marginea verticala dintre imagini"
+
+#: ../settings.php:768
+msgid "Masonry Layout"
+msgstr "Amplasament Masonry"
+
+#: ../settings.php:777 ../settings.php:818
+msgid "Set the default columns number for the masonry layout"
+msgstr "Seteaza numarul de coloane pentru aranjamentul Masonry"
+
+#: ../settings.php:780 ../settings.php:821
+msgid "Images Margin"
+msgstr "Margine Imagini"
+
+#: ../settings.php:786 ../settings.php:827
+msgid "Set the margin between the images"
+msgstr "Seteaza marginea dintre imagini"
+
+#: ../settings.php:789
+msgid "Gallery base-width"
+msgstr "Latimea totala a galeriei"
+
+#: ../settings.php:796
+msgid "Set the base-width of the gallery"
+msgstr "Seteaza latimea de baza a galeriei"
+
+#: ../settings.php:799 ../settings.php:830
+msgid "Minimum image width"
+msgstr "Latime minima imagine"
+
+#: ../settings.php:805
+msgid "Set the minimum width for the images in the masonry gallery"
+msgstr "Seteaza latimea minima a imaginilor in galeria masonry"
+
+#: ../settings.php:809
+msgid "PhotoString Layout"
+msgstr "Aranjament PhotoString"
+
+#: ../settings.php:836
+msgid "Set the minimum width for the images in the photostring gallery"
+msgstr "Seteaza latimea minima a imaginilor in galeria photostring"
+
+#: ../settings.php:840
+msgid "Collections Layout"
+msgstr "Aranjament Colectii"
+
+#: ../settings.php:843
+msgid "Thumbnails Disposition"
+msgstr "Aranjament imagini mici"
+
+#: ../settings.php:855
+msgid "Set the collection columns"
+msgstr "Seteaza coloanele colectiei"
+
+#: ../settings.php:858
+msgid "Thumbnails Minimum Width"
+msgstr "Latimea minima a imaginilor mici"
+
+#: ../settings.php:863
+msgid "Set the thumbs min width for the collections"
+msgstr "Seteaza latimea minima a imaginilor mici in colectii"
+
+#: ../settings.php:871
+msgid "Set the thumbs height for the collections"
+msgstr "Seteaza inaltimea minima a imaginilor mici in colectii"
+
+#: ../settings.php:892
+msgid "Titles under images?"
+msgstr "Titluri sub imagini ?"
+
+#: ../settings.php:897
+msgid "If checked, galleries title will be displayed under the images"
+msgstr "Daca bifat, titlurile galeriilor vor fi afisate sub imagini"
+
+#: ../settings.php:905
+msgid "Predefined Styles"
+msgstr "Stiluri predefinite"
+
+#: ../settings.php:909
+msgid "Choose a style"
+msgstr "Alege un stil"
+
+#: ../settings.php:926
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: ../settings.php:939
+msgid "Images Layout"
+msgstr "Amplasare Imagini"
+
+#: ../settings.php:942
+msgid "Image Border Size"
+msgstr "Marime Contur Imagini"
+
+#: ../settings.php:948
+msgid "Set the images border size"
+msgstr "Seteaza grosimea conturului imaginilor"
+
+#: ../settings.php:951
+msgid "Image Border Color"
+msgstr "Culoare Contur Imagine"
+
+#: ../settings.php:955
+msgid "Set the images border color"
+msgstr "Seteaza culoarea conturului imaginilor"
+
+#: ../settings.php:958
+msgid "Images Border Radius"
+msgstr "Rotunjire Contur Imagini"
+
+#: ../settings.php:964
+msgid "Set the corner radius for the images"
+msgstr "Seteaza rotunjirea conturului la colturile imaginilor"
+
+#: ../settings.php:967
+#, fuzzy
+msgid "Display image's shadow?"
+msgstr "Afiseaza Umbra imagine ?"
+
+#: ../settings.php:972
+#, fuzzy
+msgid "If checked displays a soft shadow around images"
+msgstr "Daca bifat, afiseaza o umbra in jurul imaginilor"
+
+#: ../settings.php:978
+msgid "No Effect"
+msgstr "Fara efecte"
+
+#: ../settings.php:979
+msgid "Grayscale mask"
+msgstr "Masca alb-negru"
+
+#: ../settings.php:980
+msgid "Blurred on hover"
+msgstr "Imagine neclara cand mouse-ul peste"
+
+#: ../settings.php:983
+msgid "Set the thumbnails effect"
+msgstr "Seteaza efectul imaginilor mici"
+
+#: ../settings.php:987
+msgid "Images Overlay"
+msgstr "Suprapunere Imagini"
+
+#: ../settings.php:993
+msgid "No overlay"
+msgstr "Fara suprapunere"
+
+#: ../settings.php:994
+msgid "Only main overlay"
+msgstr "Doar suprapunerea principala"
+
+#: ../settings.php:995
+msgid "Both overlays (not for &lt; IE9)"
+msgstr "Ambele suprapuneri (nu pentru &lt; IE9)"
+
+#: ../settings.php:998
+msgid "Set the overlay for the images"
+msgstr "Seteaza suprapunerea pentru imagini"
+
+#: ../settings.php:1004
+msgid "Bottom Bar"
+msgstr "Bara jos"
+
+#: ../settings.php:1005
+msgid "Top Bar"
+msgstr "Bara sus"
+
+#: ../settings.php:1006
+msgid "Full image"
+msgstr "Imagine intreaga"
+
+#: ../settings.php:1009
+msgid "Set the main overlay type"
+msgstr "Seteaza tipul suprapunerii principale"
+
+#: ../settings.php:1012
+msgid "Main overlay always visible?"
+msgstr "Suprapunerea principala vizibila intotdeauna ?"
+
+#: ../settings.php:1017
+msgid "If checked always show the main overlay"
+msgstr "Daca bifat, arata intotdeauna suprapunerea principala"
+
+#: ../settings.php:1024
+msgid "Set the main overlay background color"
+msgstr "Setati culoarea de fundal a principalei acoperiri"
+
+#: ../settings.php:1033
+msgid "Set the overlay opacity (not for &lt; IE9)"
+msgstr "Seteaza opacitatea acoperirii (nu pentru &lt; IE9)"
+
+#: ../settings.php:1040
+msgid "Set the main overlay text color"
+msgstr "Seteaza culoarea textului pentru acoperirie"
+
+#: ../settings.php:1046
+msgid "Top-left corner"
+msgstr "Coltul stanga-sus"
+
+#: ../settings.php:1047
+msgid "Top-right corner"
+msgstr "Coltul dreapta-su"
+
+#: ../settings.php:1048
+msgid "Bottom-left corner"
+msgstr "Coltul stanga-jos"
+
+#: ../settings.php:1049
+msgid "Bottom-right corner"
+msgstr "Coltul dreapta-jos"
+
+#: ../settings.php:1059
+msgid "Set the secondary overlay background color"
+msgstr "Seteaza culoarea de fuldal a acoperirii secundare"
+
+#: ../settings.php:1062
+#, fuzzy
+msgid "Secondary Overlay Icons Color"
+msgstr "Culoare acoperire secundara"
+
+#: ../settings.php:1066
+msgid "Color of the icons in the secondary overlay"
+msgstr ""
+
+#: ../settings.php:1070
+#, fuzzy
+msgid "Collections - Texts under images"
+msgstr "Colectii - Titluri sub imagini"
+
+#: ../settings.php:1073
+#, fuzzy
+msgid "Title color"
+msgstr "Titlu"
+
+#: ../settings.php:1077
+#, fuzzy
+msgid "Gallery title's color"
+msgstr "Constructor Galerie"
+
+#: ../settings.php:1080
+#, fuzzy
+msgid "Description color"
+msgstr "Seteaza Descrierea"
+
+#: ../settings.php:1084
+msgid "Gallery description's color"
+msgstr ""
+
+#: ../settings.php:1088
+#, fuzzy
+msgid "Collection Filters"
+msgstr "Constructor colectii"
+
+#: ../settings.php:1091
+#, fuzzy
+msgid "Text Color"
+msgstr "Culoare contur"
+
+#: ../settings.php:1095
+msgid "Filters text color - default status"
+msgstr ""
+
+#: ../settings.php:1098
+#, fuzzy
+msgid "Background Color"
+msgstr "Culoare contur"
+
+#: ../settings.php:1102
+msgid "Filters background color - default status"
+msgstr ""
+
+#: ../settings.php:1102 ../settings.php:1109 ../settings.php:1123
+#: ../settings.php:1130 ../settings.php:1144 ../settings.php:1151
+msgid "(not for old style)"
+msgstr ""
+
+#: ../settings.php:1105 ../settings.php:1285
+msgid "Border Color"
+msgstr "Culoare contur"
+
+#: ../settings.php:1109
+msgid "Filters border color - default status"
+msgstr ""
+
+#: ../settings.php:1112
+msgid "Text Color (on mouse hover)"
+msgstr ""
+
+#: ../settings.php:1116
+msgid "Filters text color - mouse hover status"
+msgstr ""
+
+#: ../settings.php:1119
+msgid "Background Color (on mouse hover)"
+msgstr ""
+
+#: ../settings.php:1123
+msgid "Filters background color - mouse hover status"
+msgstr ""
+
+#: ../settings.php:1126
+#, fuzzy
+msgid "Border Color (on mouse hover)"
+msgstr "Culoare contur pentru lightbox"
+
+#: ../settings.php:1130
+msgid "Filters border color - mouse hover status"
+msgstr ""
+
+#: ../settings.php:1133
+msgid "Text Color (selected filter)"
+msgstr ""
+
+#: ../settings.php:1137
+msgid "Filters text color - selected status"
+msgstr ""
+
+#: ../settings.php:1140
+msgid "Background Color (selected filter)"
+msgstr ""
+
+#: ../settings.php:1144
+msgid "Filters background color - selected status"
+msgstr ""
+
+#: ../settings.php:1147
+msgid "Border Color (selected filter)"
+msgstr ""
+
+#: ../settings.php:1151
+msgid "Filters border color - selected status"
+msgstr ""
+
+#: ../settings.php:1154
+#, fuzzy
+msgid "Border Radius"
+msgstr "Rotunjire colt"
+
+#: ../settings.php:1160
+#, fuzzy
+msgid "Set the border radius for each filter"
+msgstr "Seteaza rotunjirea conturului la colturile imaginilor"
+
+#: ../settings.php:1160
+msgid "not for old style"
+msgstr ""
+
+#: ../settings.php:1170
+msgid "Which lightbox use?"
+msgstr "Ce lightbox folosesti ?"
+
+#: ../settings.php:1185
+msgid "Lightbox Settings"
+msgstr "Setari Lightbox"
+
+#: ../settings.php:1195 ../settings.php:1209
+msgid "Select the lightbox style"
+msgstr "Alege stilul lightbox-ului"
+
+#: ../settings.php:1213
+msgid "Overlay Opacity"
+msgstr "Grad de transparenta"
+
+#: ../settings.php:1219
+msgid "Set the overlay opacity"
+msgstr "Seteaza gradul de transparenta"
+
+#: ../settings.php:1222
+msgid "Overlay Color"
+msgstr "Culoarea acoperirei"
+
+#: ../settings.php:1227
+msgid "Select the overlay color"
+msgstr "Selecteaza culoarea acoperirei"
+
+#: ../settings.php:1230
+msgid "Overlay Pattern"
+msgstr "Alege modelul acoperirei"
+
+#: ../settings.php:1246
+msgid "Maximum Width"
+msgstr "Latime Maxima"
+
+#: ../settings.php:1253
+msgid "Set the max width of the lightbox rapported to the browser"
+msgstr "Selecteaza latimea maxima in raport cu browser-ul"
+
+#: ../settings.php:1256
+msgid "Maximum Height"
+msgstr "Inaltime Maxima"
+
+#: ../settings.php:1263
+msgid "Set the max height of the lightbox rapported to the browser"
+msgstr "Selecteaza inaltimea maxima in raport cu browser-ul"
+
+#: ../settings.php:1267
+msgid "Content Padding"
+msgstr "Captuseala Continut"
+
+#: ../settings.php:1273
+msgid "Padding of the lightbox content"
+msgstr "Captuseala continutului lightbox-ului"
+
+#: ../settings.php:1276
+msgid "Border Width"
+msgstr "Grosime contur"
+
+#: ../settings.php:1282
+msgid "Border width of the lightbox"
+msgstr "Grosime contur pentru lightbox"
+
+#: ../settings.php:1290
+msgid "Border color of the lightbox"
+msgstr "Culoare contur pentru lightbox"
+
+#: ../settings.php:1293
+msgid "Corner Radius"
+msgstr "Rotunjire colt"
+
+#: ../settings.php:1299
+msgid "Corner radius of the lightbox (not for IE < 9)"
+msgstr "Rotunjire colt pentru lightbox (nu pentru < IE9)"
+
+#: ../settings.php:1303
+msgid "Text position"
+msgstr "Pozitie text"
+
+#: ../settings.php:1305
+msgid "Select a position"
+msgstr "Alege o pozitie"
+
+#: ../settings.php:1306
+#, fuzzy
+msgid "Under the image"
+msgstr "Alege imaginile"
+
+#: ../settings.php:1307
+#, fuzzy
+msgid "Over the image"
+msgstr "Alege imaginile"
+
+#: ../settings.php:1310
+msgid "Select the text position in the lightbox"
+msgstr "Alege pozitia textului in lightbox"
+
+#: ../settings.php:1313
+msgid "Use thumbnail navigation?"
+msgstr "Folosire navigatie pe imagini mici"
+
+#: ../settings.php:1318
+msgid "If checked, thumbnails will be shown in the lightbox"
+msgstr "Daca bifat, imaginile mici vor fi aratate in lightbox"
+
+#: ../settings.php:1321
+msgid "Enable fullscreen?"
+msgstr "Permite \"pe tot ecranul\" ?"
+
+#: ../settings.php:1326
+msgid "If checked, allow to use the fullscreen mode"
+msgstr "Daca bifat, permite folosirea pe tot ecranul"
+
+#: ../settings.php:1329
+msgid "Use only fullscreen?"
+msgstr "Foloseste numai pe tot ecranul ?"
+
+#: ../settings.php:1333
+msgid "Only for mobile"
+msgstr "Doar pentru mobil"
+
+#: ../settings.php:1337
+msgid "If checked, use only the fullscreen mode"
+msgstr "Daca bifat, foloseste numai pe tot ecranul"
+
+#: ../settings.php:1340
+msgid "Fullscreen image behaviour"
+msgstr "Comportament imagine pe tot ecranul"
+
+#: ../settings.php:1342
+msgid "Select a behaviour"
+msgstr "Alege un comportament"
+
+#: ../settings.php:1343
+msgid "Fill the screen"
+msgstr "Umple ecranul"
+
+#: ../settings.php:1344
+msgid "Fit the screen"
+msgstr "Potriveste pe ecran"
+
+#: ../settings.php:1345
+msgid "Smart"
+msgstr "Inteligent"
+
+#: ../settings.php:1349
+msgid "Select an image behaviour for the fullscreen view"
+msgstr "Alege un comportament al imaginii pe tot ecranul"
+
+#: ../settings.php:1353
+msgid "Enable socials?"
+msgstr "Retele de socializare active ?"
+
+#: ../settings.php:1358
+msgid "If checked, enables the social share"
+msgstr "Daca bifat, activeaza retelele de socializare"
+
+#: ../settings.php:1362
+msgid "Auto start slideshow?"
+msgstr "Porneste automat slideshow"
+
+#: ../settings.php:1367
+msgid "If checked, starts the slideshow on opening"
+msgstr "Daca bifat, porneste automat slideshow-ul la deschidere"
+
+#: ../settings.php:1370
+msgid "Slideshow Interval"
+msgstr "Interval Slideshow"
+
+#: ../settings.php:1377
+msgid "Set the slideshow interval time in milliseconds (default 5000)"
+msgstr "Seteaza intervalul slideshow-ului in milisecunde (standard 5000)"
+
+#: ../settings.php:1380
+msgid "Animation time"
+msgstr "Timp animatie"
+
+#: ../settings.php:1387
+msgid "Set the animation time between images in milliseconds (default 300)"
+msgstr "Seteaza timpul animatiei intre imagini in milisecunde (standard 300)"
+
+#: ../settings.php:1391
+#, fuzzy
+msgid "Animation behavior"
+msgstr "Timp animatie"
+
+#: ../settings.php:1398
+#, fuzzy
+msgid "Select the animation behavior navigating though images"
+msgstr "Seteaza marginea dintre imagini"
+
+#: ../settings.php:1413
+msgid "The watermarker function requires writing permissions in"
+msgstr ""
+
+#: ../settings.php:1413
+msgid "by your server. Please check them."
+msgstr ""
+
+#: ../settings.php:1419
+msgid "Watermark image"
+msgstr "Imagine Watermark"
+
+#: ../settings.php:1445
+msgid "Set the watermark opacity"
+msgstr "Seteaza opacitatea watermark-ului"
+
+#: ../settings.php:1448
+msgid "Watermark position"
+msgstr "Pozitie watermark"
+
+#: ../settings.php:1473
+msgid "Create watermark cache"
+msgstr "Creeaza cache watermark"
+
+#: ../settings.php:1475
+msgid "Create"
+msgstr "Creeaza"
+
+#: ../settings.php:1480
+msgid "Clean watermark cache"
+msgstr "Curata cache watermark"
+
+#: ../settings.php:1482
+msgid "Clean"
+msgstr "Curata"
+
+#: ../settings.php:1502
+msgid "Elements Legend"
+msgstr "Legenda elementelor"
+
+#: ../settings.php:1532
+msgid "Update Options"
+msgstr "Optiuni de actualizare"
+
+#: ../settings.php:1551
+msgid "Watermark image hasn't been set"
+msgstr "Watermark-ul nu a fost setat"
+
+#: ../settings.php:1585
+msgid "Cache cleaned succesfully"
+msgstr "Cache curatat cu succes"
+
+#: ../settings.php:1586
+msgid "Error during the cache deletion"
+msgstr "Eroare la stergerea cache-ului"
+
+#: ../settings.php:1610
+msgid "It will overwrite your current settings, continue?"
+msgstr "Va rescrie setarile curente, continui ?"
+
+#: ../settings.php:1668
+msgid "Delete the option"
+msgstr "Sterge optiunea"
+
+#: ../taxonomy_options.php:19 ../taxonomy_options.php:27
+#: ../taxonomy_options.php:66
+msgid "Order"
+msgstr "Ordine"
+
+#: ../taxonomy_options.php:21 ../taxonomy_options.php:30
+msgid "The category order that will be used for the grid filter"
+msgstr "Ordinea in care categoriile vor fi folosite la filtrare in grila"
+
+#: ../tinymce_btn.php:52
+msgid "Slider"
+msgstr "Slider"
+
+#: ../tinymce_btn.php:70 ../tinymce_btn.php:114 ../tinymce_btn.php:165
+msgid "Random Display"
+msgstr "Afisare aleatoare"
+
+#: ../tinymce_btn.php:74 ../tinymce_btn.php:169
+msgid "Display images randomly"
+msgstr "Afiseaza imagini aleatoare"
+
+#: ../tinymce_btn.php:77 ../tinymce_btn.php:172
+msgid "Use Watermark"
+msgstr "Foloseste Watermark"
+
+#: ../tinymce_btn.php:81 ../tinymce_btn.php:176
+msgid "Apply watermark to images (if available)"
+msgstr "Aplica watermark imaginilor (daca disponibil)"
+
+#: ../tinymce_btn.php:107
+msgid "Allow Filter"
+msgstr "Permite filtre"
+
+#: ../tinymce_btn.php:111
+msgid "Allow items filtering by category"
+msgstr "Permite filtrarea dupa categorie"
+
+#: ../tinymce_btn.php:118
+msgid "Display galleries randomly"
+msgstr "Afiseasa galeriile aleatoriu"
+
+#: ../tinymce_btn.php:132
+msgid "Images source"
+msgstr "Sursa imagini"
+
+#: ../tinymce_btn.php:144
+msgid "Slider Width"
+msgstr "Latime Slider"
+
+#: ../tinymce_btn.php:154
+msgid "Slider Height"
+msgstr "Inaltime Slider"
+
+#: ../tinymce_btn.php:162
+msgid "Proportionally to the width"
+msgstr "Proportional cu Latimea"
+
+#: ../tinymce_btn.php:180
+msgid "Insert Slider"
+msgstr "Insereaza Slider"
+
+#: ../wp_gallery_manag.php:58
+msgid "Use the plugin with wordpress galleries in this page?"
+msgstr ""
+
+#: ../wp_gallery_manag.php:61
+#, fuzzy
+msgid "As default"
+msgstr "Ca Standard"
+
+#~ msgid "All"
+#~ msgstr "Toate"
+
+#~ msgid "Secondary Overlay Icon"
+#~ msgstr "Iconita acoperire secundara"
+
+#~ msgid "Black"
+#~ msgstr "Negru"
+
+#~ msgid "Black Transparent"
+#~ msgstr "Negru Transparent"
+
+#~ msgid "White"
+#~ msgstr "Alb"
+
+#~ msgid "White Transparent"
+#~ msgstr "Alb Transparent"
+
+#~ msgid "Set the secondary overlay icon style"
+#~ msgstr "Seteaza iconita acoperirei secundare"
+
+#~ msgid "Standard"
+#~ msgstr "Standard"
+
+#~ msgid "Over"
+#~ msgstr "Peste"

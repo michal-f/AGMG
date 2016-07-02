@@ -1,0 +1,1240 @@
+# Copyright (C) 2014 ProteusThemes
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: BuildPress WP Theme 1.8.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/buildpress\n"
+"POT-Creation-Date: 2014-12-15 16:22:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:19
+msgid "Looks Like Something Went Wrong!"
+msgstr ""
+
+#. translators: the first %s for line break, the second and third %s for link
+#. to home page wrap
+#: 404.php:23
+msgid ""
+"The page you were looking for is not here. %s Go %s Home %s or try to search"
+msgstr ""
+
+#: comments.php:26
+msgid "Comment Navigation"
+msgstr ""
+
+#: comments.php:27
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:38 comments.php:78
+msgid "Comments for this post are closed."
+msgstr ""
+
+#: comments.php:54
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:62
+msgid "First and Last name"
+msgstr ""
+
+#: comments.php:63
+msgid "E-mail Address"
+msgstr ""
+
+#: comments.php:64
+msgid "Website"
+msgstr ""
+
+#: comments.php:70
+msgctxt "noun"
+msgid "Your comment"
+msgstr ""
+
+#: functions.php:84
+msgctxt "backend"
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:88
+msgctxt "backend"
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:91
+msgctxt "backend"
+msgid "Footer Bottom Menu"
+msgstr ""
+
+#: header.php:85
+msgid "MENU"
+msgstr ""
+
+#: inc/compat.php:19
+msgctxt "backend"
+msgid "Wide (No Container)"
+msgstr ""
+
+#: inc/compat.php:20
+msgctxt "backend"
+msgid "Wide Solid Background Color"
+msgstr ""
+
+#: inc/compat.php:21
+msgctxt "backend"
+msgid "Wide Solid Background Dark Color"
+msgstr ""
+
+#: inc/compat.php:22
+msgctxt "backend"
+msgid "Wide Pattern Background"
+msgstr ""
+
+#: inc/compat.php:23
+msgctxt "backend"
+msgid "Wide Image Background"
+msgstr ""
+
+#: inc/compat.php:94
+msgctxt "backend"
+msgid "Home Page"
+msgstr ""
+
+#: inc/compat.php:95
+msgctxt "backend"
+msgid "Default home page for BuildPress"
+msgstr ""
+
+#: inc/compat.php:153 inc/customizer/class-pt-customize-base.php:583
+msgctxt "backend"
+msgid "Projects"
+msgstr ""
+
+#: inc/compat.php:154
+msgctxt "backend"
+msgid "Project"
+msgstr ""
+
+#: inc/compat.php:155
+msgctxt "backend"
+msgid "Add New Item"
+msgstr ""
+
+#: inc/compat.php:156 inc/compat.php:158
+msgctxt "backend"
+msgid "Add New Project"
+msgstr ""
+
+#: inc/compat.php:157
+msgctxt "backend"
+msgid "Edit Project"
+msgstr ""
+
+#: inc/compat.php:159
+msgctxt "backend"
+msgid "View Item"
+msgstr ""
+
+#: inc/compat.php:160
+msgctxt "backend"
+msgid "Search Projects"
+msgstr ""
+
+#: inc/compat.php:161
+msgctxt "backend"
+msgid "No projects found"
+msgstr ""
+
+#: inc/compat.php:162
+msgctxt "backend"
+msgid "No projects found in trash"
+msgstr ""
+
+#: inc/custom-comments.php:28
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/custom-comments.php:34
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:536
+msgctxt "backend"
+msgid "[PT] Theme Options"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:537
+msgctxt "backend"
+msgid "All BuildPress theme specific settings."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:543
+msgctxt "backend"
+msgid "Logo &amp; Favicon"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:544
+msgctxt "backend"
+msgid "Logo &amp; Favicon for the BuildPress theme."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:550
+msgctxt "backend"
+msgid "Header &amp; Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:551
+msgctxt "backend"
+msgid "All layout and appearance settings for the footer and breadcrumbs."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:557
+msgctxt "backend"
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:558
+msgctxt "backend"
+msgid "All layout and appearance settings for the main navigation."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:564
+msgctxt "backend"
+msgid "Main Title Area"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:565
+msgctxt "backend"
+msgid ""
+"All layout and appearance settings for the main title area (regular pages)."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:571
+msgctxt "backend"
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:577
+msgctxt "backend"
+msgid "Theme Layout &amp; Colors"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:590
+msgctxt "backend"
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:598
+msgctxt "backend"
+msgid "Page Builder Row Styles"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:599
+msgctxt "backend"
+msgid "Change the custom row styles of the page builder."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:606 inc/theme-sidebars.php:71
+msgctxt "backend"
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:607
+msgctxt "backend"
+msgid "All layout and appearance settings for the footer."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:613
+msgctxt "backend"
+msgid "Custom Code"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:619
+msgctxt "backend"
+msgid "Automatic Updates"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:620
+msgctxt "backend"
+msgid ""
+"If you fill out the two fields below, you will get notified when the theme "
+"update is available and you will be able to update with just one click. "
+"Please note that all the changes you will make in the code directly will be "
+"overwritten with the updates. Use the <a href=\"http://codex.wordpress.org/"
+"Child_Themes\" target=\"_blank\">Child Themes</a> to alter the code."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:634
+msgctxt "backend"
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:635
+msgctxt "backend"
+msgid "Recommended height for the Logo is 112px."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:644
+msgctxt "backend"
+msgid "Retina Logo Image"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:645
+msgctxt "backend"
+msgid "2x logo size, for screens with high DPI."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:654
+msgctxt "backend"
+msgid "Favicon Image"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:655
+msgctxt "backend"
+msgid "Recommended dimensions are 32 x 32px."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:665
+msgctxt "backend"
+msgid "Top bar visibility"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:666
+msgctxt "backend"
+msgid "Show or hide?"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:669
+msgctxt "backend"
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:670
+msgctxt "backend"
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:678
+msgctxt "backend"
+msgid "Top bar background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:687
+msgctxt "backend"
+msgid "Top bar text color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:698
+msgctxt "backend"
+msgid "Header background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:707
+msgctxt "backend"
+msgid "Header background pattern"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:716
+msgctxt "backend"
+msgid "Header text color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:726
+msgctxt "backend"
+msgid "Breadcrumbs background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:736
+msgctxt "backend"
+msgid "Static or sticky navbar?"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:739
+msgctxt "backend"
+msgid "Static"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:740
+msgctxt "backend"
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:748
+msgctxt "backend"
+msgid "Main navigation background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:757
+msgctxt "backend"
+msgid "Main navigation link color (mobile)"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:766
+msgctxt "backend"
+msgid "Main navigation link color (desktop)"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:775
+msgctxt "backend"
+msgid "Main navigation submenu link color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:784
+msgctxt "backend"
+msgid "Main title option"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:787
+msgctxt "backend"
+msgid "Big title area"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:788
+msgctxt "backend"
+msgid "Small title area"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:796
+msgctxt "backend"
+msgid "Main title background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:806
+msgctxt "backend"
+msgid "Main title background pattern"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:816
+msgctxt "backend"
+msgid "Main title color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:826
+msgctxt "backend"
+msgid "Character set for Google Fonts"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:841
+msgctxt "backend"
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:844
+msgctxt "backend"
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:845
+msgctxt "backend"
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:854
+msgctxt "backend"
+msgid "Boxed content background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:855
+msgctxt "backend"
+msgid "Only applies when the Layout is set to <em>Boxed</em>."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:865
+msgctxt "backend"
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:874
+msgctxt "backend"
+msgid "Secondary color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:883
+msgctxt "backend"
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:892
+msgctxt "backend"
+msgid "Primary button color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:899
+msgctxt "backend"
+msgid "Title option of the projects"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:901
+msgctxt "backend"
+msgid "What is shown in the main title area."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:904
+msgctxt "backend"
+msgid "Show title of the actual project (+ subtitle from below if not empty)"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:905
+msgctxt "backend"
+msgid "Show title and subtitle from below"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:910
+msgctxt "backend"
+msgid "Projects title"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:915
+msgctxt "backend"
+msgid "Projects subtitle"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:920
+msgctxt "backend"
+msgid "Projects slug"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:921
+msgctxt "backend"
+msgid "This is used in the URL part."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:926
+msgctxt "backend"
+msgid "Previous item label"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:931
+msgctxt "backend"
+msgid "Next item label"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:939
+msgctxt "backend"
+msgid "Number of products per page"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:944
+msgctxt "backend"
+msgid "Sidebar on single product page"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:948
+msgctxt "backend"
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:949
+msgctxt "backend"
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:950
+msgctxt "backend"
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:964
+#: inc/customizer/class-pt-customize-base.php:984
+msgctxt "backend"
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:965
+msgctxt "backend"
+msgid "Row style: Wide Solid Background Color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:974
+msgctxt "backend"
+msgid "Dark background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:975
+msgctxt "backend"
+msgid "Row style: Wide Solid Background Dark Color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:985
+#: inc/customizer/class-pt-customize-base.php:995
+msgctxt "backend"
+msgid "Row style: Wide Pattern Background"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:994
+#: inc/customizer/class-pt-customize-base.php:1004
+msgctxt "backend"
+msgid "Background image"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1005
+#: inc/customizer/class-pt-customize-base.php:1013
+msgctxt "backend"
+msgid "Row style: Wide Image Background"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1012
+msgctxt "backend"
+msgid "Background image size"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1016
+msgctxt "backend"
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1017
+msgctxt "backend"
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1018
+msgctxt "backend"
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1027
+msgctxt "backend"
+msgid "Number of widgets"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1028
+msgctxt "backend"
+msgid ""
+"How many widgets do you want to place in top the footer? Select <code>0</"
+"code> to disable the top footer at all."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1038
+msgctxt "backend"
+msgid "Top footer background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1048
+msgctxt "backend"
+msgid "Top footer background pattern"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1058
+msgctxt "backend"
+msgid "Top footer widget title color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1068
+msgctxt "backend"
+msgid "Top footer text color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1078
+msgctxt "backend"
+msgid "Top footer link color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1088
+msgctxt "backend"
+msgid "Bottom footer background color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1098
+msgctxt "backend"
+msgid "Bottom footer text color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1108
+msgctxt "backend"
+msgid "Bottom footer link color"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1116
+msgctxt "backend"
+msgid "Footer text on left"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1117
+msgctxt "backend"
+msgid "Before footer menu. You can use HTML."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1124
+msgctxt "backend"
+msgid "Footer text on right"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1125
+msgctxt "backend"
+msgid "You can use HTML."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1133
+msgctxt "backend"
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1134
+msgctxt "backend"
+msgid "%s How to find CSS classes %s in the theme."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1140
+msgctxt "backend"
+msgid "Custom JavaScript (head)"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1141
+#: inc/customizer/class-pt-customize-base.php:1148
+msgctxt "backend"
+msgid "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1147
+msgctxt "backend"
+msgid "Custom JavaScript (footer)"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1155
+msgctxt "backend"
+msgid "Your ThemeForest username"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1156
+msgctxt "backend"
+msgid "Your Envato marketplace (ThemeForest) username."
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1161
+msgctxt "backend"
+msgid "Your ThemeForest API key"
+msgstr ""
+
+#: inc/customizer/class-pt-customize-base.php:1162
+msgctxt "backend"
+msgid ""
+"Your API key (<strong>not</strong> password). See <a href=\"https://www."
+"diigo.com/item/p/pdbsqoszbspabboqezbcoserod\" target=\"_blank\">here</a> "
+"where you can generate your new API key on ThemeForest site."
+msgstr ""
+
+#: inc/documentation-link.php:9 inc/documentation-link.php:10
+#: inc/documentation-link.php:21
+msgctxt "backend"
+msgid "Documentation"
+msgstr ""
+
+#: inc/documentation-link.php:24
+msgctxt "backend"
+msgid "Click here to see online documentation of the theme!"
+msgstr ""
+
+#: inc/filters.php:37
+msgid "Page %s"
+msgstr ""
+
+#: inc/filters.php:87
+msgctxt "custom read more text after the post excerpts"
+msgid " &hellip;"
+msgstr ""
+
+#: inc/filters.php:116
+msgctxt "backend"
+msgid "Heading"
+msgstr ""
+
+#: inc/filters.php:125
+msgctxt "backend"
+msgid "ProteusThemes"
+msgstr ""
+
+#. translators: %s represents a number
+#: inc/helpers.php:19
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-sidebars.php:12
+msgctxt "backend"
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:14
+msgctxt "backend"
+msgid "Sidebar on the blog layout."
+msgstr ""
+
+#: inc/theme-sidebars.php:26
+msgctxt "backend"
+msgid "Regular Page Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:28
+msgctxt "backend"
+msgid "Sidebar on the regular page."
+msgstr ""
+
+#: inc/theme-sidebars.php:41
+msgctxt "backend"
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:43
+msgctxt "backend"
+msgid "Sidebar for the shop page"
+msgstr ""
+
+#: inc/theme-sidebars.php:56
+msgctxt "backend"
+msgid "Header"
+msgstr ""
+
+#: inc/theme-sidebars.php:58
+msgctxt "backend"
+msgid "Header area for Icon Box and Social Icons widgets."
+msgstr ""
+
+#: inc/theme-sidebars.php:73
+msgctxt "backend"
+msgid ""
+"Footer area works best with %d widgets. This number can be changed in the "
+"Appearance &rarr; Customize &rarr; Theme Options &rarr; Footer."
+msgstr ""
+
+#: inc/widgets/widget-banner.php:17
+msgctxt "backend"
+msgid "ProteusThemes: Banner"
+msgstr ""
+
+#: inc/widgets/widget-banner.php:19
+msgctxt "backend"
+msgid "Banner for Page Builder."
+msgstr ""
+
+#: inc/widgets/widget-banner.php:77
+msgctxt "backend"
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/widget-banner.php:82
+msgctxt "backend"
+msgid "Button Area:"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:17
+msgctxt "backend"
+msgid "ProteusThemes: Brochure Box"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:19
+msgctxt "backend"
+msgid "Brochure Box for the Sidebar and Page Builder."
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:100 inc/widgets/widget-icon-box.php:99
+msgctxt "backend"
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:105
+msgctxt "backend"
+msgid "Brochure URL"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:111 inc/widgets/widget-icon-box.php:116
+msgctxt "backend"
+msgid "Open link in new tab"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:115
+msgctxt "backend"
+msgid "Brochure Text"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:120
+msgctxt "backend"
+msgid "Brochure Icon"
+msgstr ""
+
+#: inc/widgets/widget-brochure-box.php:121 inc/widgets/widget-icon-box.php:121
+msgctxt "backend"
+msgid "Click on the icon below or manually select from the %s website"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:18
+msgctxt "backend"
+msgid "ProteusThemes: Facebook"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:20
+msgctxt "backend"
+msgid "Use this widget only in the footer of the BuildPress theme"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:118 inc/widgets/widget-testimonials.php:150
+msgctxt "backend"
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:123
+msgctxt "backend"
+msgid "FB Page to like (the whole URL)"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:128
+msgctxt "backend"
+msgid "Height (in pixels):"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:133
+msgctxt "backend"
+msgid "Color scheme"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:135
+msgctxt "backend"
+msgid "Light"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:136
+msgctxt "backend"
+msgid "Dark"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:141
+msgctxt "backend"
+msgid "Background color:"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:22
+msgctxt "backend"
+msgid "ProteusThemes: Featured Page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:24
+msgctxt "backend"
+msgid "Featured Page for Page Builder."
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:66 index.php:48
+msgid "Read more"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:77
+msgctxt "backend"
+msgid "Select page in widget settings"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:110
+msgctxt "backend"
+msgid "Page:"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:121
+msgctxt "backend"
+msgid "Layout:"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:123
+msgctxt "backend"
+msgid "With big picture"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:124
+msgctxt "backend"
+msgid "With small picture, inline"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:25
+msgctxt "backend"
+msgid "ProteusThemes: Google Map"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:27
+msgctxt "backend"
+msgid "For use in the page builder"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:115
+msgctxt "backend"
+msgid "Latitude and longitude of the map center:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:116
+msgctxt "backend"
+msgid ""
+"Get this from %s (right click on map and select What's here?) or %s. "
+"Latitude and longitude separated by comma."
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:121
+msgctxt "backend"
+msgid "Zoom (more is closer view):"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:130
+msgctxt "backend"
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:139
+msgctxt "backend"
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:148
+msgctxt "backend"
+msgid "Height of map (in pixels):"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:153
+msgctxt "backend"
+msgid "Locations:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:157
+msgctxt "backend"
+msgid "Title of location:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:158
+msgctxt "backend"
+msgid "This is shown on pin mouse hover."
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:163
+msgctxt "backend"
+msgid "Latitude and longitude of this location:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:164
+msgctxt "backend"
+msgid "The same format as above for the map center."
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:169
+msgctxt "backend"
+msgid "Custom pin icon URL:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:175
+msgctxt "backend"
+msgid "Remove Location"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:17
+msgctxt "backend"
+msgid "ProteusThemes: Icon Box"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:19
+msgctxt "backend"
+msgid "Icon Box for the Header of the page."
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:104
+msgctxt "backend"
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:109 inc/widgets/widget-social-icons.php:103
+msgctxt "backend"
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:110
+msgctxt "backend"
+msgid "URL to any page, optional."
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:120
+msgctxt "backend"
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:19
+msgctxt "backend"
+msgid "ProteusThemes: Social Icons"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:21
+msgctxt "backend"
+msgid "Social Icons for Header of the page."
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:95
+msgid "Open Links in New Tab"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:108
+msgctxt "backend"
+msgid "Select social network"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:17
+msgctxt "backend"
+msgid "ProteusThemes: Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:19
+msgctxt "backend"
+msgid "Testimonials for Page Builder."
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:155
+msgctxt "backend"
+msgid "Automatically cycle the carousel?"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:157
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:158
+msgid "No"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:163
+msgctxt "backend"
+msgid "Interval (in miliseconds):"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:169
+msgctxt "backend"
+msgid "Testimonials:"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:173
+msgctxt "backend"
+msgid "Quote"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:178
+msgctxt "backend"
+msgid "Author:"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:184
+msgctxt "backend"
+msgid "Rating:"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:197
+msgctxt "backend"
+msgid "Remove Testimonial"
+msgstr ""
+
+#: index.php:41 single.php:38
+msgid "By"
+msgstr ""
+
+#: index.php:51 single-portfolio.php:130 single.php:48
+msgid "Link to this post"
+msgstr ""
+
+#: index.php:63
+msgid "Sorry, no results found."
+msgstr ""
+
+#: part-main-title.php:46 single-portfolio.php:59
+msgid "Category"
+msgstr ""
+
+#: part-main-title.php:48
+msgid "Tag"
+msgstr ""
+
+#: part-main-title.php:50
+msgid "Search Results For"
+msgstr ""
+
+#: part-main-title.php:52
+msgid "Error 404"
+msgstr ""
+
+#: part-pagination.php:9
+msgctxt "for screen reader only"
+msgid "Page"
+msgstr ""
+
+#: single-portfolio.php:36
+msgid "Construction Date"
+msgstr ""
+
+#: single-portfolio.php:40
+msgid "Location"
+msgstr ""
+
+#: single-portfolio.php:44
+msgid "Surface Area"
+msgstr ""
+
+#: single-portfolio.php:48
+msgid "Contracting Investor"
+msgstr ""
+
+#: single-portfolio.php:52
+msgid "Value"
+msgstr ""
+
+#. translators: after that comes pagination like 1, 2, 3 ... 10
+#: single.php:55
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:23
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:25
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Theme Name of the plugin/theme
+msgid "BuildPress WP Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.proteusthemes.com/buildpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "BuildPress WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Default Template (for Page Builder)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page With Layer/Revolution Slider"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page With Slider"
+msgstr ""

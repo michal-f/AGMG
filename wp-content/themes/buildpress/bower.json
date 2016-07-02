@@ -1,0 +1,25 @@
+{
+  "name": "buildpress-wp",
+  "authors": [
+    "Primoz Cigler <primoz@proteusnet.com>",
+    "Marko Prelec <marko.prelec@proteusnet.com>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^4.2.0",
+    "bootstrap-sass-official": "^3.3.1",
+    "acf": "https://github.com/elliotcondon/acf.git#master",
+    "respimage": "~1.2.0"
+  },
+  "devDependencies": {
+    "requirejs": "~2.1.11",
+    "almond": "~0.3.0"
+  }
+}

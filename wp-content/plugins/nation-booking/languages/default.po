@@ -1,0 +1,765 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nation Booking System\n"
+"POT-Creation-Date: 2014-07-31 22:47+0700\n"
+"PO-Revision-Date: 2015-04-15 12:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../calendar-shortcode.php:12 ../nation-booking.php:337
+msgid "available"
+msgstr "DOSTĘPNY"
+
+#: ../calendar-shortcode.php:12 ../nation-booking.php:341
+msgid "booked"
+msgstr "zarezerwowane"
+
+#: ../calendar-shortcode.php:26
+msgid "['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']"
+msgstr "Poniedziałek Wtorek Środa Czwartek Piątek Sobota Niedziela"
+
+#: ../calendar-shortcode.php:27
+msgid "['Sun','Mon','Tue','Wed','Thu','Fri','Sat']"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../calendar-shortcode.php:28
+#, fuzzy
+msgid "['Su','Mo','Tu','We','Th','Fr','Sa']"
+msgstr "['Nd.', 'Pn.', 'Wt.', 'Śr.', 'Cz.', 'Pt.', 'So.']"
+
+#: ../calendar-shortcode.php:29
+#, fuzzy
+msgid "['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']"
+msgstr "['Sty', 'Lut', 'Mar', 'Kwi', 'Maj', 'Cze', 'Lip', 'Sie', 'Wrz', 'Paź', 'Lis', 'Gru']"
+
+#: ../calendar-shortcode.php:30
+#, fuzzy
+msgid "['January','February','March','April','May','June','July','August','September','October','November','December']"
+msgstr ""
+"['Styczeń', 'Luty', 'Marzec', 'Kwiecień', 'Maj', 'Czerwiec', 'Lipiec', 'Sierpień', 'Wrzesień', 'Październik', "
+"'Listopad', 'Grudzień']"
+
+#: ../db-modifications.php:10 ../db-modifications.php:35 ../db-modifications.php:60 ../db-modifications.php:200
+#: ../db-modifications.php:271 ../db-modifications.php:324 ../db-modifications.php:482 ../db-modifications.php:522
+#: ../import-export.php:158
+#, fuzzy
+msgid "You are not allowed to be on this page."
+msgstr "Add icon to page title:"
+
+#: ../db-modifications.php:114
+msgid "You can't made reservation on the date that already has passed."
+msgstr ""
+
+#: ../db-modifications.php:118
+msgid ""
+"You can't create this reservation as room don't available on selected dates. To made this room available please "
+"visit Dashboard > Nation Booking System > Availability/Price."
+msgstr ""
+
+#: ../db-modifications.php:122
+msgid "You can't create this reservation as the room was already booked on the selected dates."
+msgstr ""
+
+#: ../db-modifications.php:126
+msgid "You can't create this reservation as the number of rooms available on this date less than requested number."
+msgstr ""
+
+#: ../db-modifications.php:134
+#, fuzzy
+msgid "Check out date should be larger than Check in date"
+msgstr "data wymeldowania musi być w późniejszym czasie niż data zameldowania"
+
+#: ../db-modifications.php:188
+#, php-format
+msgid "<a href='%s'>Return on previous page</a>"
+msgstr ""
+
+#: ../import-export.php:165
+#, fuzzy
+msgid "No file found"
+msgstr "Przesyłanie pliku"
+
+#: ../import-export.php:171
+#, php-format
+msgid "There was an error importing the logs. File type detected: '%s'. 'text/xml' expected"
+msgstr ""
+
+#: ../import-export.php:176
+#, php-format
+msgid "File size too large (%s). Maximum 2MB"
+msgstr ""
+
+#: ../import-export.php:180
+#, fuzzy, php-format
+msgid "Error encountered: %d"
+msgstr "Podatek (%d %%):"
+
+#: ../nation-booking.php:31
+#, fuzzy
+msgid "New Calendar"
+msgstr "(you can create new calendar by clicking on \"Nation Booking System\" link in the left column)"
+
+#: ../nation-booking.php:144
+msgid "Current Calendars:"
+msgstr ""
+
+#: ../nation-booking.php:151
+#, fuzzy
+msgid "Id"
+msgstr "ID"
+
+#: ../nation-booking.php:151 ../nation-booking.php:184
+#, fuzzy
+msgid "Calendar Name"
+msgstr "Imię*"
+
+#: ../nation-booking.php:151 ../nation-booking.php:185
+#, fuzzy
+msgid "Min Price"
+msgstr "Cena"
+
+#: ../nation-booking.php:154 ../nation-booking.php:651
+#, fuzzy
+msgid "Edit"
+msgstr "Edytuj rezerwacje"
+
+#: ../nation-booking.php:157 ../nation-booking.php:689 ../nation-booking.php:705
+msgid "Delete"
+msgstr ""
+
+#: ../nation-booking.php:168 ../nation-booking.php:187 ../nation-booking.php:428 ../nation-booking.php:813
+#: ../nation-booking.php:884
+#, fuzzy
+msgid "Submit"
+msgstr "Przycisk zatwierdzania"
+
+#: ../nation-booking.php:169 ../nation-booking.php:673 ../nation-booking.php:814
+#, fuzzy
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: ../nation-booking.php:175
+msgid "There's no calendars found. You can create new calendars using form below."
+msgstr ""
+
+#: ../nation-booking.php:180
+#, fuzzy
+msgid "Create New Calendar:"
+msgstr "(you can create new calendar by clicking on \"Nation Booking System\" link in the left column)"
+
+#: ../nation-booking.php:197 ../nation-booking.php:461
+#, fuzzy
+msgid "Select Calendar:"
+msgstr "<b>Note: </b> you have to select different calendar for every room."
+
+#: ../nation-booking.php:198 ../nation-booking.php:462
+#, fuzzy
+msgid "Select Calendar"
+msgstr "<b>Note: </b> you have to select different calendar for every room."
+
+#: ../nation-booking.php:234 ../nation-booking.php:250
+#, fuzzy
+msgid "January"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:235 ../nation-booking.php:251
+#, fuzzy
+msgid "February"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:236 ../nation-booking.php:252
+#, fuzzy
+msgid "March"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:237 ../nation-booking.php:253
+#, fuzzy
+msgid "April"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:238 ../nation-booking.php:254
+#, fuzzy
+msgid "May"
+msgstr "Sty,Lty,Mar,Kwi,Maj,Cze,Lip,Sie,Wrz,Paź,Lis,Gru"
+
+#: ../nation-booking.php:239 ../nation-booking.php:255
+#, fuzzy
+msgid "June"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:240 ../nation-booking.php:256
+#, fuzzy
+msgid "July"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:241 ../nation-booking.php:257
+#, fuzzy
+msgid "August"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:242 ../nation-booking.php:258
+#, fuzzy
+msgid "September"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:243 ../nation-booking.php:259
+#, fuzzy
+msgid "October"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:244 ../nation-booking.php:260
+#, fuzzy
+msgid "November"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:245 ../nation-booking.php:261
+#, fuzzy
+msgid "December"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:249
+#, fuzzy
+msgid "Select Month"
+msgstr "Miesiąc wygaśnięcia"
+
+#: ../nation-booking.php:263
+#, fuzzy
+msgid "Select Year"
+msgstr "Rok wygaśnięcia"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Sun"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Mon"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Tue"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Wed"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Thu"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Fri"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:309 ../nation-booking.php:379
+#, fuzzy
+msgid "Sat"
+msgstr ";NIE;PON;WTO;ŚR;CZW;PT;SOB"
+
+#: ../nation-booking.php:419
+msgid "Set/Edit Calendar Data:"
+msgstr ""
+
+#: ../nation-booking.php:421
+msgid "Start Data"
+msgstr ""
+
+#: ../nation-booking.php:422
+msgid "End Data"
+msgstr ""
+
+#: ../nation-booking.php:423
+#, fuzzy
+msgid "Availability"
+msgstr "Dostępność"
+
+#: ../nation-booking.php:425 ../nation-booking.php:592
+#, fuzzy
+msgid "Price"
+msgstr "Cena"
+
+#: ../nation-booking.php:481
+#, fuzzy
+msgid "Booking System Settings"
+msgstr "System Rezerwacji"
+
+#: ../nation-booking.php:486
+#, fuzzy
+msgid "Email:"
+msgstr "E-mail:"
+
+#: ../nation-booking.php:487
+msgid "Currency symbol:"
+msgstr ""
+
+#: ../nation-booking.php:488
+#, fuzzy
+msgid "Date format:"
+msgstr "Termin ważności:"
+
+#: ../nation-booking.php:499
+#, fuzzy
+msgid "Hide Tax Info:"
+msgstr "Podatek (%d %%):"
+
+#: ../nation-booking.php:504
+msgid "Add Tax to Price Calculation:"
+msgstr ""
+
+#: ../nation-booking.php:509
+#, fuzzy
+msgid "Tax:"
+msgstr "Podatek (%d%%) nie zawarty"
+
+#: ../nation-booking.php:509 ../nation-booking.php:519 ../nation-booking.php:521 ../nation-booking.php:523
+msgid "please enter without the percent sign"
+msgstr ""
+
+#: ../nation-booking.php:511
+#, fuzzy
+msgid "Enable coupon:"
+msgstr "Wprowadź nazwę kuponu"
+
+#: ../nation-booking.php:518
+#, fuzzy
+msgid "Coupon Name:"
+msgstr "Wprowadź nazwę kuponu"
+
+#: ../nation-booking.php:519
+#, fuzzy
+msgid "Coupon Discount:"
+msgstr "Kupon rabatowy (%d%%):"
+
+#: ../nation-booking.php:520
+#, fuzzy
+msgid "Coupon Name 2:"
+msgstr "Wprowadź nazwę kuponu"
+
+#: ../nation-booking.php:521
+#, fuzzy
+msgid "Coupon Discount 2:"
+msgstr "Kupon rabatowy (%d%%):"
+
+#: ../nation-booking.php:522
+#, fuzzy
+msgid "Coupon Name 3:"
+msgstr "Wprowadź nazwę kuponu"
+
+#: ../nation-booking.php:523
+#, fuzzy
+msgid "Coupon Discount 3:"
+msgstr "Kupon rabatowy (%d%%):"
+
+#: ../nation-booking.php:526
+#, fuzzy
+msgid "Not confirmed email header:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:527
+#, fuzzy
+msgid "Not confirmed email content:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:528
+#, fuzzy
+msgid "Confirmed email header:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:529
+#, fuzzy
+msgid "Confirmed email content:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:530
+#, fuzzy
+msgid "Canceled email header:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:531
+#, fuzzy
+msgid "Canceled email content:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:532
+#, fuzzy
+msgid "Rejected email header:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:533
+#, fuzzy
+msgid "Rejected email content:"
+msgstr "E-mail*"
+
+#: ../nation-booking.php:535 ../nation-booking.php:561
+#, fuzzy
+msgid "Save changes"
+msgstr "Zapisz layot"
+
+#: ../nation-booking.php:545 ../nation-booking.php:974
+#, fuzzy
+msgid "PayPal Settings"
+msgstr "Ustawienia"
+
+#: ../nation-booking.php:549
+#, fuzzy
+msgid "Enable PayPal payment:"
+msgstr "Wybierz metodę płatności"
+
+#: ../nation-booking.php:552
+msgid "Enable Sandbox mode"
+msgstr ""
+
+#: ../nation-booking.php:555
+msgid "API username:"
+msgstr ""
+
+#: ../nation-booking.php:556
+msgid "API password:"
+msgstr ""
+
+#: ../nation-booking.php:557
+msgid "API signature:"
+msgstr ""
+
+#: ../nation-booking.php:558
+msgid "PayPal currency code:"
+msgstr ""
+
+#: ../nation-booking.php:558
+msgid "(currency code list: https://developer.paypal.com/docs/classic/api/currency_codes/)"
+msgstr ""
+
+#: ../nation-booking.php:578
+#, fuzzy
+msgid "Active Reservations:"
+msgstr "Rezerwacje"
+
+#: ../nation-booking.php:585
+msgid "No."
+msgstr ""
+
+#: ../nation-booking.php:586
+#, fuzzy
+msgid "Status"
+msgstr "Status"
+
+#: ../nation-booking.php:587 ../utility-functions.php:81
+#, fuzzy
+msgid "Check In"
+msgstr "Zamelduj"
+
+#: ../nation-booking.php:588 ../utility-functions.php:82
+#, fuzzy
+msgid "Check Out"
+msgstr "Wymelduj"
+
+#: ../nation-booking.php:589
+msgid "Visitors"
+msgstr ""
+
+#: ../nation-booking.php:590 ../nation-booking.php:834 ../utility-functions.php:88
+#, fuzzy
+msgid "Email"
+msgstr "E-mail"
+
+#: ../nation-booking.php:591
+msgid "Info"
+msgstr ""
+
+#: ../nation-booking.php:611
+msgid "Approved"
+msgstr ""
+
+#: ../nation-booking.php:613
+msgid "Pending"
+msgstr ""
+
+#: ../nation-booking.php:615
+msgid "Rejected"
+msgstr ""
+
+#: ../nation-booking.php:627
+#, fuzzy, php-format
+msgid "Room %d: Adults: %d, Children: %d"
+msgstr "Pokój %d: Dorośli: %d, Dzieci: %d"
+
+#: ../nation-booking.php:636 ../nation-booking.php:647
+#, fuzzy
+msgid "name:"
+msgstr "Imię*"
+
+#: ../nation-booking.php:637
+#, fuzzy
+msgid "card type:"
+msgstr "Typ karty"
+
+#: ../nation-booking.php:638
+#, fuzzy
+msgid "cardholder name:"
+msgstr "Nazwisko posiadacza karty"
+
+#: ../nation-booking.php:639
+#, fuzzy
+msgid "card number:"
+msgstr "Numer karty"
+
+#: ../nation-booking.php:640
+#, fuzzy
+msgid "expiration date"
+msgstr "Termin ważności:"
+
+#: ../nation-booking.php:644
+msgid "Reservation paid through PayPal."
+msgstr ""
+
+#: ../nation-booking.php:645
+#, fuzzy
+msgid "PayPal Transaction ID:"
+msgstr "Numer rezerwacji"
+
+#: ../nation-booking.php:646
+#, fuzzy
+msgid "PayPal Payer ID:"
+msgstr "Numer rezerwacji"
+
+#: ../nation-booking.php:657 ../nation-booking.php:681 ../nation-booking.php:697
+msgid "Approve"
+msgstr ""
+
+#: ../nation-booking.php:665
+msgid "Reject"
+msgstr ""
+
+#: ../nation-booking.php:823
+#, fuzzy
+msgid "There's no reservation found for this calendar."
+msgstr "Numer rezerwacji"
+
+#: ../nation-booking.php:827
+#, fuzzy
+msgid "Create a New Reservation:"
+msgstr "Numer rezerwacji"
+
+#: ../nation-booking.php:831
+#, fuzzy
+msgid "Check-in date"
+msgstr "Data zameldowania"
+
+#: ../nation-booking.php:832
+#, fuzzy
+msgid "Check-out date"
+msgstr "Data wymeldowania"
+
+#: ../nation-booking.php:833
+#, fuzzy
+msgid "Number of room"
+msgstr "Rodzaj pokoju"
+
+#: ../nation-booking.php:835
+#, fuzzy
+msgid "Adults"
+msgstr "Dorośli"
+
+#: ../nation-booking.php:836
+#, fuzzy
+msgid "Children"
+msgstr "Dzieci"
+
+#: ../nation-booking.php:837 ../utility-functions.php:86
+#, fuzzy
+msgid "Name"
+msgstr "Imię*"
+
+#: ../nation-booking.php:838 ../utility-functions.php:87
+msgid "Surname"
+msgstr ""
+
+#: ../nation-booking.php:839 ../utility-functions.php:89
+#, fuzzy
+msgid "Card type"
+msgstr "Typ karty"
+
+#: ../nation-booking.php:846 ../utility-functions.php:90
+#, fuzzy
+msgid "Cardholder name"
+msgstr "Nazwisko posiadacza karty"
+
+#: ../nation-booking.php:847 ../utility-functions.php:91
+#, fuzzy
+msgid "Card number"
+msgstr "Numer karty"
+
+#: ../nation-booking.php:848
+#, fuzzy
+msgid "Expiration month"
+msgstr "Miesiąc wygaśnięcia"
+
+#: ../nation-booking.php:864
+#, fuzzy
+msgid "Expiration year"
+msgstr "Rok wygaśnięcia"
+
+#: ../nation-booking.php:880 ../utility-functions.php:93
+#, fuzzy
+msgid "Comments"
+msgstr "Komentarz"
+
+#: ../nation-booking.php:896
+msgid "Export/Import Booking System Data"
+msgstr ""
+
+#: ../nation-booking.php:900
+msgid "Click to export all booking system data"
+msgstr ""
+
+#: ../nation-booking.php:903
+#, fuzzy
+msgid "Download the Booking System Data"
+msgstr "System Rezerwacji"
+
+#: ../nation-booking.php:910
+#, fuzzy
+msgid "Data was successfully imported"
+msgstr "Wiadomość została wysłana pomyślnie!"
+
+#: ../nation-booking.php:912
+msgid " No data were imported"
+msgstr ""
+
+#: ../nation-booking.php:917
+#, fuzzy
+msgid "Import an .xml file."
+msgstr "Imporujt/Exportuj"
+
+#: ../nation-booking.php:921
+#, fuzzy
+msgid "Import the Booking System Data"
+msgstr "System Rezerwacji"
+
+#: ../nation-booking.php:949
+#, fuzzy
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr "Sty,Lty,Mar,Kwi,Maj,Cze,Lip,Sie,Wrz,Paź,Lis,Gru"
+
+#: ../nation-booking.php:950
+#, fuzzy
+msgid "January,February,March,April,May,June,July,August,September,October,November,December"
+msgstr "Styczeń,Luty,Marzec,Kwiecień,Maj,Czerwiec,Lipiec,Sierpień,Wrzesień,Październik,Listopad,Grudzień"
+
+#: ../nation-booking.php:951
+#, fuzzy
+msgid "Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr "Nd.,Pn.,Wt.,Śr.,Cz.,Pt.,So."
+
+#: ../nation-booking.php:952
+#, fuzzy
+msgid "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr "Niedziela, poniedziałek, wtorek, środa, czwartek, piątek, sobota"
+
+#: ../nation-booking.php:953
+#, fuzzy
+msgid "Su,Mo,Tu,We,Th,Fr,Sa"
+msgstr "Ni, Pn, Wt, Śr, Cz, Pt, So"
+
+#: ../nation-booking.php:954
+msgid "Are you sure you want to delete this calendar?"
+msgstr ""
+
+#: ../nation-booking.php:955
+msgid "Are you sure you want to approve this reservation?"
+msgstr ""
+
+#: ../nation-booking.php:956
+msgid "Are you sure you want to reject this reservation?"
+msgstr ""
+
+#: ../nation-booking.php:957
+msgid "Are you sure you want to cancel this reservation?"
+msgstr ""
+
+#: ../nation-booking.php:958
+msgid "Are you sure you want to delete this reservation?"
+msgstr ""
+
+#: ../nation-booking.php:959
+#, fuzzy
+msgid "Check in date always should be less than check out date."
+msgstr "data wymeldowania musi być w późniejszym czasie niż data zameldowania"
+
+#: ../nation-booking.php:960
+msgid "Check out date always should be larger than check in date."
+msgstr "data wymeldowania musi być w późniejszym czasie niż data zameldowania"
+
+#: ../nation-booking.php:970
+msgid "Nation Booking System"
+msgstr "System Rezerwacji"
+
+#: ../nation-booking.php:971
+msgid "Reservations"
+msgstr "Rezerwacje"
+
+#: ../nation-booking.php:972
+msgid "Availability/Price"
+msgstr "Dostępność / cena"
+
+#: ../nation-booking.php:973
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ../nation-booking.php:975
+msgid "Import/Export"
+msgstr "Imporujt/Exportuj"
+
+#: ../utility-functions.php:69
+msgid "Reservation ID"
+msgstr "Numer rezerwacji"
+
+#: ../utility-functions.php:70
+#, fuzzy
+msgid "Calendar ID"
+msgstr "ID"
+
+#: ../utility-functions.php:71
+msgid "Room Type"
+msgstr "Rodzaj pokoju"
+
+#: ../utility-functions.php:72
+#, fuzzy
+msgid "Number of booked items"
+msgstr "zarezerwowane"
+
+#: ../utility-functions.php:75
+#, fuzzy, php-format
+msgid "Room %d visitors"
+msgstr "Rodzaj pokoju"
+
+#: ../utility-functions.php:75
+msgid "Adults:"
+msgstr "Dorośli:"
+
+#: ../utility-functions.php:75
+msgid "Children:"
+msgstr "Dzieci:"
+
+#: ../utility-functions.php:92
+msgid "Expiration date"
+msgstr "Termin ważności:"
+
+#: ../utility-functions.php:97
+msgid "Total"
+msgstr "Suma"

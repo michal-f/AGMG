@@ -1,0 +1,71 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+# Redirect all HTTP traffic to HTTPS.
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+# ---------------------------------------
+# BEGIN Domain to folder mapping
+
+# PRZEKIEROWANIE MAILI NAJPIERW!!!!!!!!!!!!!!!!
+
+ReWriteCond %{HTTP_HOST} mail.e-loan.pl
+ReWriteCond %{REQUEST_URI} !mailloan/
+ReWriteRule ^(.*)$ mailloan/$1 [L]
+
+ReWriteCond %{HTTP_HOST} mail.whitelion.com.pl
+ReWriteCond %{REQUEST_URI} !mailwhitelion/
+ReWriteRule ^(.*)$ mailwhitelion/$1 [L]
+
+ReWriteCond %{HTTP_HOST} mail.e-loan.pl
+ReWriteCond %{REQUEST_URI} !mailloan/
+ReWriteRule ^(.*)$ mailloan/$1 [L]
+
+# PRZEKIEROWANIE DOMEN !!!!!!!!!!!!!!!!
+
+
+ReWriteCond %{HTTP_HOST} mail.jastrzebia.ovh
+ReWriteCond %{REQUEST_URI} !mailjastrzebia/
+ReWriteRule ^(.*)$ mailjastrzebia/$1 [L]
+
+# pointing domain_1.com to folder_1
+ReWriteCond %{HTTP_HOST} whitelion.com.pl
+ReWriteCond %{REQUEST_URI} !whitelion/
+ReWriteRule ^(.*)$ whitelion/$1 [L]
+
+# pointing e-loan.pl to loan
+ReWriteCond %{HTTP_HOST} e-loan.pl
+ReWriteCond %{REQUEST_URI} !loan/
+ReWriteRule ^(.*)$ loan/$1 [L]
+
+# pointing e-loan.pl to loan
+ReWriteCond %{HTTP_HOST} jastrzebia.ovh
+ReWriteCond %{REQUEST_URI} !jastrzebia/
+ReWriteRule ^(.*)$ jastrzebia/$1 [L]
+
+
+# END Domain to folder mapping
+# ---------------------------------------
+
+# ---------------------------------------
+# BEGIN WordPress
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+
+# END WordPress
+# ---------------------------------------
+
+# ---------------------------------------
+# BEGIN htaccess pretection
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+# END htaccess pretection
+# ---------------------------------------
+
+</IfModule>

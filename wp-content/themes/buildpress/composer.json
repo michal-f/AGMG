@@ -1,0 +1,17 @@
+{
+    "repositories": [
+      {
+        "type": "vcs",
+        "url":  "https://github.com/primozcigler/Envato-WordPress-Theme-Updater.git"
+      },
+      {
+        "type": "vcs",
+        "url":  "https://github.com/primozcigler/wordpress-one-click-demo-install.git"
+      }
+    ],
+    "require": {
+        "tgm/plugin-activation": "~2.4",
+        "primozcigler/envato-wordpress-theme-updater": "~1.1.0",
+        "primozcigler/wordpress-one-click-demo-install": "~0.2.1"
+    }
+}

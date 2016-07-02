@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-autoprefixer": "*",
+    "grunt-concurrent": "*",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^1.0"
+  }
+}

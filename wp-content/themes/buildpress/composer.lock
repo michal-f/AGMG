@@ -1,0 +1,145 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "5de550fe3c8a9f8d4f16b26aaf4f5f3c",
+    "packages": [
+        {
+            "name": "primozcigler/envato-wordpress-theme-updater",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/primozcigler/Envato-WordPress-Theme-Updater.git",
+                "reference": "006574e62e2bfb5f6b82e6f744332ca3732bfbdc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/primozcigler/Envato-WordPress-Theme-Updater/zipball/006574e62e2bfb5f6b82e6f744332ca3732bfbdc",
+                "reference": "006574e62e2bfb5f6b82e6f744332ca3732bfbdc",
+                "shasum": ""
+            },
+            "type": "library",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Primoz Cigler",
+                    "email": "primoz@proteusnet.com"
+                }
+            ],
+            "description": "Class to add the auto-updating support to the premium WordPress themes available on the ThemeForest.",
+            "support": {
+                "source": "https://github.com/primozcigler/Envato-WordPress-Theme-Updater/tree/v1.1.0"
+            },
+            "time": "2014-09-30 12:32:34"
+        },
+        {
+            "name": "primozcigler/wordpress-one-click-demo-install",
+            "version": "v0.2.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/primozcigler/wordpress-one-click-demo-install.git",
+                "reference": "4e1f8509f18007e6cdb2751d4c830f9149fafb0c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/primozcigler/wordpress-one-click-demo-install/zipball/4e1f8509f18007e6cdb2751d4c830f9149fafb0c",
+                "reference": "4e1f8509f18007e6cdb2751d4c830f9149fafb0c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "importer/radium-importer.php"
+                ]
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Frank Gitonga"
+                },
+                {
+                    "name": "Primoz Cigler",
+                    "email": "primoz@proteusnet.com"
+                }
+            ],
+            "description": "Once Click Demo Content Install for WordPress.",
+            "support": {
+                "source": "https://github.com/primozcigler/wordpress-one-click-demo-install/tree/v0.2.4"
+            },
+            "time": "2014-10-20 08:20:26"
+        },
+        {
+            "name": "tgm/plugin-activation",
+            "version": "v2.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thomasgriffin/TGM-Plugin-Activation.git",
+                "reference": "374285ef50f233453b1275912471d4ab9bd53220"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thomasgriffin/TGM-Plugin-Activation/zipball/374285ef50f233453b1275912471d4ab9bd53220",
+                "reference": "374285ef50f233453b1275912471d4ab9bd53220",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.2"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "class-tgm-plugin-activation.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Thomas Griffin",
+                    "homepage": "http://thomasgriffinmedia.com",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Gary Jones",
+                    "homepage": "https://github.com/GaryJones",
+                    "role": "Developer"
+                }
+            ],
+            "description": "TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins).",
+            "homepage": "http://tgmpluginactivation.com",
+            "keywords": [
+                "activation",
+                "library",
+                "plugins",
+                "theme",
+                "wordpress"
+            ],
+            "time": "2014-03-17 15:23:47"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "prefer-stable": false,
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<slideshow >
+
+	<mobileSettings>
+		<currencySymbol>$</currencySymbol>
+		<width>1400</width>
+		<height>650</height>
+		<containerid>gal1425253611</containerid>
+        <heightManual>no</heightManual>
+        <mheight1></mheight1>
+        <mheight2></mheight2>
+        <mheight3></mheight3>
+        <mheight4></mheight4>
+	</mobileSettings>
+	<baseDef fullscreen="1" showCatDescriptionAlways="true" transitionTime="1.5" autoSlideTimer="3" autoScale="1" autoAlign="1" gradientColor="0xe8ebea" gradientColor1="0xcccccc" CatsWidth="96" catsHeight="72"  catsbackColor="0xe2d289" arrowsColor= "0x666666" CatsTitleBarColor="0x000000" CatsTextColor="0xffffff" catsImagebackColor="0x" catsTextSize="10" ImageHeight="450" thumbListColor="0x000000" thumbListAlpha="50" thumbTextColor="0xffffff" thumbButtonColor="0x515151" thumbButtonOverColor="0x171717" thumbTextSize="13" descColorBack="0x000000" descTextColor="0xffffff" backTransperency="0" ActiveCat="1"
+	categoryStatus="show"	
+	/>
+	<priceTag enabled="yes">
+			<position>TL</position>
+			<textSize>22</textSize>
+			
+			<currency>
+				<base>
+					<color code="#ffffff" alpha="0.8" />
+
+					<color code="#cecece" alpha="0.8" />
+
+
+				</base>
+
+				<label color="#ff00cc" alpha="0.8" />
+				<symbol>$</symbol>
+			</currency>
+
+			<price>
+				<base color="#ff00cc" alpha="0.5" />
+				<label color="#ffffff" alpha="1" />
+			</price>
+	</priceTag>
+
+
+		<imageEffect>
+			<type>1</type>
+			<time>1000</time>
+			<closingEffect>default</closingEffect>
+		</imageEffect>
+
+			<descriptionEffect>
+			<type>1</type>
+		</descriptionEffect>
+
+<content></content>
+</slideshow>

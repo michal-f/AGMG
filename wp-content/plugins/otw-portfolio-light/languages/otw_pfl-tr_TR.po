@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OTW Portfolio Light v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-05 19:46+0200\n"
+"Last-Translator: admin <office@onetwoweb.bg>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:26
+msgid "Portfolio Item"
+msgstr "Portfolyo Öğesi"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:27
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:28
+msgid "Add New Portfolio Item"
+msgstr "Yeni Portfolyo Öğesi Ekle "
+
+# @ otw_pfl
+#: otw-portfolio-light.php:29
+msgid "Edit Portfolio Item"
+msgstr "Portfolyo Öğesini Düzenle"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:30
+msgid "New Portfolio Item"
+msgstr "Yeni Portfolyo Öğesi"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:31
+msgid "View Portfolio Item"
+msgstr "Portfolyo Öğesine Bak"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:32
+msgid "Search Portfolio Items"
+msgstr "Portfolyo Öğelerinde Ara"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:33
+msgid "No portfolio items found"
+msgstr "Hiç portfolyo öğesi bulunamadı"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:34
+msgid "No portfolio items found in Trash"
+msgstr "Çöp Kutusunda hiç portfolyo öğesi yok"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:35
+msgid "Parent Portfolio:"
+msgstr "Ana Portfolyo"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:25 otw-portfolio-light.php:36
+msgid "OTW Portfolio"
+msgstr "OTW Portfolyo"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:42
+msgid "Custom Post Type - Portfolio Pages"
+msgstr "Özel Yazı Tipi- Portfolyo Sayfası"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:64 otw-portfolio-light.php:74
+msgid "Portfolio Categories"
+msgstr "Portfolyo Kategorileri"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:65
+msgid "Portfolio Category"
+msgstr "Portfolyo Kategorisi"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:66
+msgid "Search Portfolio Categories"
+msgstr "Portfolyo Kategorilerinde Ara"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:67
+msgid "All Portfolio Categories"
+msgstr "Tüm Portfolyo Kategorileri"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:68
+msgid "Parent Portfolio Category"
+msgstr "Ana Portfolyo Kategorisi"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:69
+msgid "Parent Portfolio Category:"
+msgstr "Ana Portfolyo Kategorisi:"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:70
+msgid "Edit Portfolio Category"
+msgstr "Portfolyo Kategorisini Düzenle"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:71
+msgid "Update Portfolio Category"
+msgstr "Portfolyo Kategorisini Güncelle"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:72
+msgid "Add New Portfolio Category"
+msgstr "Yeni Portfolyo Kategorisi Ekle"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:73
+msgid "New Portfolio Category Name"
+msgstr "Yeni Portfolyo Kategorisi Adı"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:97 otw-portfolio-light.php:346
+#: otw-portfolio-light.php:360
+msgid "Portfolio Settings"
+msgstr " Portfolyo Ayarları"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:109
+msgid "URL"
+msgstr "URL"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:110
+msgid "Enter URL of your clients site e.g. www.google.com (optional)"
+msgstr "Şirketinizin URL adresini giriniz. Örn: www.ahmetkolcu.org (opsiyonel)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:115
+msgid "Testimonial"
+msgstr "Müşteri Görüşü"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:116
+msgid ""
+"Enter a testimonial from your client to be displayed on the single portfolio "
+"page (optional)"
+msgstr ""
+"Şirketin yaptığınız çalışma hakkında görüşünü buraya yazabilirisniz. Bu yazı "
+"tekil portfolyo öğesi sayfasında görünecektir. (Opsiyonel)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:121
+msgid "Portfolio Images"
+msgstr " Portfolyo Resimleri"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:122
+msgid "Upload an image or enter an URL to your portfolio image (optional)"
+msgstr ""
+"Bir resim yükleyin veya portfolyo resminin olduğu linki giriniz (Opsiyonel)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:202 otw-portfolio-light.php:212
+msgid "Choose Image"
+msgstr "Resim Seç"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:203 otw-portfolio-light.php:213
+msgid "Remove"
+msgstr "Sil"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:215
+msgid "Add New Image"
+msgstr "Yeni Resim Ekle"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:346
+msgid "Settings"
+msgstr "Ayarlar"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:365
+msgid "Portfolio Thumnbail Size (Archive)"
+msgstr "Portfolyo küçükresim Boyutu (Arşiv)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:367 otw-portfolio-light.php:374
+#: otw-portfolio-light.php:381
+msgid "Width (in px)"
+msgstr "Genişlik (pixel)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:367
+msgid "(default is 303)"
+msgstr "(varsayılan 303 px)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:368 otw-portfolio-light.php:375
+msgid "Height (in px)"
+msgstr "Yükseklik (pixel)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:368
+msgid "(default is 210)"
+msgstr "(varsayılan 210 px)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:372
+msgid "Portfolio Image Size (Single)"
+msgstr "Portfolyo Resim Boyutu (Tekil)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:374
+msgid "(default is 700)"
+msgstr "(varsayılan 700)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:375
+msgid "(default is 400)"
+msgstr "(varsayılan 400)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:386
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet5"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:517
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+# @ otw_pfl
+#: templates/otw-portfolio-paginated.php:58
+#: templates/otw-prtfolio-filterable.php:63
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+# @ otw_pfl
+#: templates/otw-portfolio-paginated.php:62
+#: templates/otw-prtfolio-filterable.php:67
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Özür dileriz, ancak hiç sonuç bulunamadı. Benzer yazılarda arama yapmanız "
+"size yardımcı olabilir."
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:47 templates/otw-portfolio-post.php:59
+msgid "Previous"
+msgstr "Önceki"
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:47 templates/otw-portfolio-post.php:59
+msgid "Next"
+msgstr "Sonraki"
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:64
+msgid "Edit Post"
+msgstr "Yazıyı Düzenle"
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:70
+msgid "Visit site"
+msgstr "Siteyi Ziyaret Et"
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:82
+msgid "Post navigation"
+msgstr "Yazı Navigasyonu"
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:83
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr; [Önceki Yazı Linki]"
+
+# @ otw_pfl
+#: templates/otw-portfolio-post.php:84
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr; [Sonraki Yazı Linki]"
+
+# @ otw_pfl
+#: templates/otw-prtfolio-filterable.php:20
+msgid "All"
+msgstr "Tümü"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:379
+msgid "otw-row width"
+msgstr "otw-row genişliği"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:381
+msgid "(default is empty)"
+msgstr "(varsayılan yok)"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:382
+msgid ""
+"If you leave empty this means otw-row will take 100% of your content area. "
+"This works well on most themes. If your theme content area does not have "
+"fixed width you can set the width of the content here in pixels."
+msgstr ""
+"Bu kısmı boş bırakırsanız içerik alanının %100 ünü kullanmış olursunuz. Bu "
+"neredeyse tüm temalarda gayet iyi çalışır. Eğer temanızda içerik kısmının "
+"genişliği sabit değilse bu alana bir genişlik değeri girerek "
+"sabitleyebilirsiniz."
+
+# @ otw_pfl
+#: templates/otw-portfolio-paginated.php:38
+#: templates/otw-prtfolio-filterable.php:41
+msgid "No Image"
+msgstr "Resim Yok"
+
+# @ otw_pfl
+#: templates/otw-template-full-width.php:29
+msgid "Sorry, nothing to display."
+msgstr "Üzgünüz, gösterilecek öğe yok"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:276
+msgid "Page title setting"
+msgstr "Sayfa Başlığı Ayarı"
+
+# @ otw_pfl
+#: otw-portfolio-light.php:304
+msgid "Hide Portfolio Title"
+msgstr "Portfolyo Başlığını Gizle"
